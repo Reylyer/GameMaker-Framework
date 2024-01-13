@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "25772d47d6f7b3df",
+    "type": "split",
+    "children": [
+      {
+        "id": "f943f83db1860b5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5372f62b06c26e47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lobby/_Lobby.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "edad9aed20b82b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core UI/Primitives/Rectangle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9396fadfbbb8fcc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d81fb440200eca5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3218d0d294ddecb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c3ef6da8f16bace",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92886420c41dcf48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "451e3e34dfabc95c",
+    "type": "split",
+    "children": [
+      {
+        "id": "79d685ea29664bac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fc9d74915bd00c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Core UI/Primitives/Rectangle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6acc2cc5f72c46cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Core UI/Primitives/Rectangle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7dfec1c01ab6cc6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d64d2987c2afd3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Core UI/Primitives/Rectangle.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "edad9aed20b82b36",
+  "lastOpenFiles": [
+    "List View/_List View.md",
+    "Lobby/_Lobby.md",
+    "Core UI/_Core UI.md",
+    "_Templates/Package.md",
+    "_Templates/Atom.md",
+    "Data Structures/_Data Structures.md",
+    "Data Structures/HashMap.md",
+    "Data Structures/Utils/Access helper.md",
+    "List View",
+    "Lobby/LobbyManager.md",
+    "Core UI/Primitives/Rectangle.md",
+    "Lobby/Untitled",
+    "Lobby",
+    "Core UI/_Contracts",
+    "Data Structures/List.md",
+    "Description Box/Description Box.md",
+    "Dependency Graph.canvas"
+  ]
+}
