@@ -1,5 +1,4 @@
 ---
-Dependencies:
-  - "[[_Core UI]]"
-Inherit: 
+Dependencies: "[[_Core UI]]"
+Inherit:
 ---

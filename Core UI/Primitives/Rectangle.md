@@ -1,5 +1,5 @@
 ---
-Source Filename: 
+Source Filename: o_core_ui_Rectangle
 Dependencies: 
 Inherit: 
 tags:
@@ -8,7 +8,9 @@ cssclasses:
   - Atom
 ---
 # TODO
-- Transform from script to an object
+- [ ] Clear suggestion incosistent naming
+- [ ] JSDoc
+- [ ] converted indent to space
 # About
 
 # Provides
@@ -21,4 +23,6 @@ cssclasses:
 
 ## Globals
 
-## Enum
+## Enums
+
+## Structs

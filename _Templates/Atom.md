@@ -8,7 +8,9 @@ cssclasses:
   - Atom
 ---
 # TODO
-- 
+- [ ] Clear suggestion incosistent naming
+- [ ] JSDoc
+- [ ] converted indent to space
 # About
 
 # Provides
@@ -21,4 +23,6 @@ cssclasses:
 
 ## Globals
 
-## Enum
+## Enums
+
+## Structs
