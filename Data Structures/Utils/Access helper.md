@@ -24,7 +24,7 @@ var val = st_safe_access(st, "x") ?? "KEY IS NOT EXIST";
 - `_struct`: `Struct`
    > Struct that want to be accessed
 - `_key`: `String`
-> The key to be used to access the struct
+   > The key to be used to access the struct
 
 #### Returns 
 > `Any` or `pointer_null` if key doesn't exist (can be treated as `false`)
@@ -53,8 +53,10 @@ if (val) {
 ### `mp_safe_access`
 
 #### Parameters
-- `_map`: `ds_map` Map that want to be accessed
-- `_key`: `String` The key to be used to access the struct
+- `_map`: `ds_map` 
+   > Map that want to be accessed
+- `_key`: `String` 
+   > The key to be used to access the struct
 
 #### Returns 
 > `Any` or `pointer_null` if key doesn't exist (can be treated as `false`)
