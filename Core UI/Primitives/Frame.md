@@ -20,8 +20,9 @@ cssclasses:
 | ---- | ---- | ---- |
 | `x` | `Real` | The x origin, left side. |
 | `y` | `Real` | The y origin, upper side. |
-| `w` |  |  |
-| `h` |  |  |
+| `w` | `Real` | The width of the frame, it can be ignored and use [[Flex]] |
+| `h` | `Real` | The height of the frame, it can be ignored and use [[Flex]] |
+
 # Methods
 | Name | Param | Returns | Description |
 | ---- | ---- | ---- | ---- |
