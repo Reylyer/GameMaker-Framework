@@ -11,15 +11,31 @@
             "id": "f52abee2a1460d2a",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dependency Graph.canvas",
+                "viewState": {
+                  "x": -820,
+                  "y": 840,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "79c4141bf8d114c5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Core UI/Description Box/Description Box.md",
+                "file": "Core UI/Primitives/ScrollBar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core UI/Description Box/Description Box.md",
+                "file": "Core UI/Primitives/ScrollBar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core UI/Description Box/Description Box.md",
+                "file": "Core UI/Primitives/ScrollBar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core UI/Description Box/Description Box.md"
+                "file": "Core UI/Primitives/ScrollBar.md"
               }
             }
           },
@@ -155,24 +171,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f52abee2a1460d2a",
+  "active": "79c4141bf8d114c5",
   "lastOpenFiles": [
-    "Core UI/_Core UI.md",
-    "Core UI/Description Box/Description Box.md",
-    "Core UI/_Contracts/Debuggable Hover.md",
-    "Core UI/Primitives/Frame.md",
+    "Core UI/List View/List View.md",
+    "Core UI/List View/ListItem.md",
     "Core UI/Primitives/ScrollBar.md",
     "Core UI/Primitives/Point2D.md",
-    "Core UI/List View/ListItem.md",
+    "Dependency Graph.canvas",
+    "Core/HierarchicalTransform.md",
+    "Core",
+    "Core UI/Description Box/Description Box.md",
+    "Core UI/_Contracts/Debuggable Hover.md",
+    "Core UI/_Core UI.md",
+    "Core UI/Primitives/Frame.md",
     "Core",
     "Data Structures/Utils/Access helper.md",
     "Data Structures/List.md",
     "Data Structures/HashMap.md",
     "Data Structures/_Data Structures.md",
     "Core UI/Description Box/Untitled.md",
-    "Core UI/List View/_List View.md",
     "Core UI/List View with Description Box/_List View with Description Box.md",
-    "Dependency Graph.canvas",
     "_Templates/Package.md",
     "_Templates/Function.md",
     "Core UI/List View with Description Box",

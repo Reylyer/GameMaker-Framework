@@ -7,6 +7,8 @@ tags:
 cssclasses:
   - Atom
 ---
+# About
+A frame that contains a text for title and text for subtitle. It is used by [[List View|List View]] by default.
 # Inherits
 ![[Debuggable Hover]]
 
