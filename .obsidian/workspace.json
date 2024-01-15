@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core UI/Primitives/Rectangle.md",
+                "file": "Core UI/Description Box/Description Box.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core UI/Primitives/Rectangle.md",
+                "file": "Core UI/Description Box/Description Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core UI/Primitives/Rectangle.md",
+                "file": "Core UI/Description Box/Description Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core UI/Primitives/Rectangle.md"
+                "file": "Core UI/Description Box/Description Box.md"
               }
             }
           },
@@ -157,25 +157,29 @@
   },
   "active": "f52abee2a1460d2a",
   "lastOpenFiles": [
+    "Core UI/_Core UI.md",
+    "Core UI/Description Box/Description Box.md",
+    "Core UI/_Contracts/Debuggable Hover.md",
+    "Core UI/Primitives/Frame.md",
+    "Core UI/Primitives/ScrollBar.md",
     "Core UI/Primitives/Point2D.md",
-    "Core UI/Primitives/Rectangle.md",
-    "_Templates/Function.md",
+    "Core UI/List View/ListItem.md",
+    "Core",
     "Data Structures/Utils/Access helper.md",
     "Data Structures/List.md",
     "Data Structures/HashMap.md",
     "Data Structures/_Data Structures.md",
-    "Description Box/Description Box.md",
+    "Core UI/Description Box/Untitled.md",
+    "Core UI/List View/_List View.md",
+    "Core UI/List View with Description Box/_List View with Description Box.md",
     "Dependency Graph.canvas",
-    "List View/ListItem.md",
-    "List View with Description Box/_List View with Description Box.md",
-    "List View with Description Box",
+    "_Templates/Package.md",
+    "_Templates/Function.md",
+    "Core UI/List View with Description Box",
     "Lobby/_Lobby.md",
-    "List View/_List View.md",
     "_Templates/Atom.md",
     "_Templates/Function param.md",
-    "_Templates/Package.md",
-    "Core UI/_Core UI.md",
-    "List View",
+    "Core UI/List View",
     "Lobby/LobbyManager.md",
     "Lobby/Untitled",
     "Lobby",
