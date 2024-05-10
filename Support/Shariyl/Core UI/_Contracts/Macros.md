@@ -7,7 +7,6 @@ cssclasses:
   - Atom
 aliases:
 ---
-``
 `CORE_UI_TEXT_DEBUG_STYLE`
 
 `CORE_UI_RECT_DEBUG_STYLE`

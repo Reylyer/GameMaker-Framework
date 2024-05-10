@@ -10,9 +10,7 @@ aliases:
   - obj_i_core_ui_debuggable_hover
 ---
 # TODO
-- [ ] Clear suggestion incosistent naming
-- [ ] JSDoc
-- [ ] converted indent to space
+
 # About
 
 ## Attributes
