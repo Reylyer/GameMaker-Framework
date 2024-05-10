@@ -38,6 +38,7 @@ fix random script
 - scr_move_character_leftright
 - scr_move_character_platform
 - script_urusan_key_binding
+
 ![[Pasted image 20240419014639.png]]
 
 2024-04-19 02:15 - rename sprite uis

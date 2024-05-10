@@ -1,11 +1,12 @@
 ---
-Source Filename: 
+Source Filename: obj_player
 Dependencies: 
 Inherit: 
 tags:
   - TODO
 cssclasses:
   - Atom
+aliases:
 ---
 # TODO
 - [ ] Clear suggestion incosistent naming
@@ -13,16 +14,6 @@ cssclasses:
 - [ ] converted indent to space
 # About
 
-# Provides
+## Attributes
 
-## Objects
-
-## Functions
-
-## Macros
-
-## Globals
-
-## Enums
-
-## Structs
+## Methods

@@ -1,5 +1,5 @@
 ---
-Source Filename: 
+Source Filename: obj_enemy
 Dependencies: 
 Inherit: 
 tags:
@@ -9,13 +9,9 @@ cssclasses:
 aliases:
 ---
 # TODO
-- [ ] Clear suggestion incosistent naming
-- [ ] JSDoc
-- [ ] converted indent to space
+
 # About
 
 ## Attributes
 
 ## Methods
-
-## Events

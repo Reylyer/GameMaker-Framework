@@ -64,14 +64,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Core UI/_Core UI.md",
+                "file": "Garuda Emblem/Objects/main_object/Player.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46e0862cdf20f4be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garuda Emblem/Objects/main_object/Human.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 231.5
   },
   "right": {
     "id": "451e3e34dfabc95c",
@@ -137,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/Shariyl/Core UI/_Core UI.md",
+                "file": "Garuda Emblem/Objects/main_object/Human.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/Shariyl/Core UI/_Core UI.md",
+                "file": "Garuda Emblem/Objects/main_object/Human.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Shariyl/Core UI/_Core UI.md"
+                "file": "Garuda Emblem/Objects/main_object/Human.md"
               }
             }
           },
@@ -208,8 +220,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e343622f88db788",
+  "active": "46e0862cdf20f4be",
   "lastOpenFiles": [
+    "Garuda Emblem/Objects/main_object/Player.md",
+    "_Templates/Object.md",
+    "Garuda Emblem/Objects/main_object/Human.md",
+    "Garuda Emblem/Objects/main_object/Enemy.md",
+    "Garuda Emblem/Enemy/o_human.md",
+    "index.md",
+    "Perjuangan/Step 1 - Suppress Dan Fix Error.md",
     "Support/Shariyl/Core UI/_Core UI.md",
     "Support/Shariyl/Core UI/_Contracts/Debuggable Hover.md",
     "Support/Shariyl/Core UI/_Contracts/Macros.md",
@@ -217,15 +236,12 @@
     "Support/Shariyl/Core/HasTransform.md",
     "Support/Shariyl/Core UI/Primitives/Point2D.md",
     "Support/Shariyl/Core UI/Primitives/Frame.md",
-    "_Templates/Object.md",
     "Support/Shariyl/Core UI/List View with Description Box/_List View with Description Box.md",
     "Support/README.md",
     "Support/Shariyl/Dependency Graph.canvas",
     "Garuda Emblem/Read us/Naming Convention.md",
     "Garuda Emblem/Read us/Intro to GameMaker.md",
-    "index.md",
     "README.md",
-    "Untitled.md",
     "asd.md",
     "2024-01-19.md",
     "Support/Shariyl/Core UI/List View/ListItem.md",
@@ -237,10 +253,6 @@
     "Core UI/Primitives",
     "Core UI",
     "Support/Shariyl/Core UI/Description Box/Description Box.md",
-    "Support/Shariyl/Lobby/LobbyManager.md",
-    "Support/Shariyl/Lobby/_Lobby.md",
-    "Support/Shariyl/Data Structures/List.md",
-    "Support/Shariyl/Data Structures/HashMap.md",
     "Support/Shariyl/UI",
     "Perjuangan/Attachments/Pasted image 20240418235136.png",
     "Perjuangan/Attachments",
@@ -254,7 +266,7 @@
     "Perjuangan/Attachments/Pasted image 20240419031911.png",
     "Perjuangan/Attachments/Pasted image 20240419031138.png",
     "Perjuangan",
-    "Garuda Emblem/Objects/Core",
+    "Garuda Emblem/Objects/main_object",
     "Garuda Emblem/Read us",
     "Garuda Emblem/Objects",
     "Support/Shariyl/Data Structures/Utils",

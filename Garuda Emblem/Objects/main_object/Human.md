@@ -1,16 +1,16 @@
 ---
-Source Filename: o_human
+Source Filename: obj_human
 Dependencies: 
 Inherit: 
 tags:
   - TODO
 cssclasses:
   - Atom
+aliases:
+  - obj_human
 ---
 # TODO
-- [ ] Clear suggestion incosistent naming
-- [ ] JSDoc
-- [ ] converted indent to space
+- [ ] Refactor
 # About
 
 ## Attributes
@@ -150,3 +150,12 @@ v_get_enemy_touch = ds_list_create();
 v_num_enemy_touch = 0
 
 ## Methods
+
+
+## Events
+### Create
+Big init
+### Step - Main
+### Step - Normal
+
+### Alarm 0
