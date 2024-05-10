@@ -39,13 +39,13 @@ jobs:
             --exclude=node_modules --exclude=*.sqlite \
             ./ ${{env.dest}}
 
-      - name: update
-        uses: appleboy/ssh-action@master
-        with:
-          host: ${{ secrets.SSH_HOST }}
-          username: ${{ secrets.SSH_USER }}
-          key: ${{ secrets.DEPLOY_KEY }}
-          port: 22
-          script: |
-            cd /home/${{ secrets.SSH_USER }}/quartz/
-            npx quartz build
+      # - name: update
+      #   uses: appleboy/ssh-action@master
+      #   with:
+      #     host: ${{ secrets.SSH_HOST }}
+      #     username: ${{ secrets.SSH_USER }}
+      #     key: ${{ secrets.DEPLOY_KEY }}
+      #     port: 22
+      #     script: |
+      #       cd /home/${{ secrets.SSH_USER }}/quartz/
+      #       npx quartz build
