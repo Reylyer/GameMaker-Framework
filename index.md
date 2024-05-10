@@ -4,3 +4,4 @@ Pergi ke [[Support/README|Support]] untuk dokumentasi library umum, biasanya(dan
 
 [[Garuda Emblem/README|Garuda Emblem]] untuk yang spesifik ke garuda emblem
 
+Also untuk buka explorer, coba di full screen
