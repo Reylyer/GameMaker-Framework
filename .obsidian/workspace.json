@@ -105,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,8 +196,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c3ef6da8f16bace",
+  "active": "3218d0d294ddecb3",
   "lastOpenFiles": [
+    "Support/Shariyl/Core UI/List View/List View.md",
+    "Dependency Graph.canvas",
+    "Core/HierarchicalTransform.md",
+    "Core",
+    "Core UI/Primitives/ScrollBar.md",
+    "Core UI/Primitives",
+    "Core UI",
     "Support/Shariyl/Core UI/Primitives/Frame.md",
     "Support/Shariyl/Core UI/List View/ListItem.md",
     "Support/Shariyl/Core UI/Description Box/Description Box.md",
@@ -234,17 +240,11 @@
     "Perjuangan/Attachments/Pasted image 20240419031138.png",
     "_Templates/Datetime.md",
     "_Templates/Object.md",
-    "_Templates/Package.md",
-    "Garuda Emblem/Objects/Core/Human.md",
     "Perjuangan",
-    "_Templates/Atom.md",
     "Garuda Emblem/Objects/Core",
     "Garuda Emblem/Read us",
     "Garuda Emblem/Objects",
     "Support/Shariyl/Data Structures/Utils",
-    "Support/Shariyl/Data Structures",
-    "Support/Shariyl/Lobby/Untitled",
-    "Support/Shariyl/Lobby",
     "Untitled/Untitled.canvas",
     "Support/Shariyl/Dependency Graph.canvas"
   ]
