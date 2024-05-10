@@ -6,6 +6,8 @@ tags:
   - TODO
 cssclasses:
   - Atom
+aliases:
+  - _core_ui_Point2D
 ---
 # TODO
 - [x] Clear suggestion incosistent naming

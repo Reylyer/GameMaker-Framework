@@ -1,11 +1,13 @@
 ---
-Source Filename: o_core_ui_Rectangle
+Source Filename: obj_core_ui_frame
 Dependencies: 
 Inherit: "[[Debuggable Hover]]"
 tags:
   - TODO
 cssclasses:
   - Atom
+aliases:
+  - obj_core_ui_frame
 ---
 # About
 A simple frame that can contains an object, sprite, or another frame.

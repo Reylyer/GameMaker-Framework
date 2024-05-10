@@ -6,6 +6,7 @@ tags:
   - TODO
 cssclasses:
   - Atom
+aliases:
 ---
 # TODO
 - [ ] Clear suggestion incosistent naming
