@@ -1,7 +1,7 @@
 ---
 Source Filename: 
 Dependencies: 
-Inherit: 
+Inherits: 
 tags:
   - TODO
 cssclasses:
@@ -9,10 +9,7 @@ cssclasses:
 aliases:
 ---
 # TODO
-- [ ] Clear suggestion incosistent naming
-- [ ] JSDoc
-- [ ] converted indent to space
-# About
+- [ ] TODO
 
 ## Attributes
 

@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"fe8cf6f9ce6462f2","type":"group","x":-1160,"y":-640,"width":2480,"height":3000,"label":"Core UI"},
 		{"id":"8b860aae13b302a0","type":"file","file":"Support/Shariyl/Core UI/Primitives/Frame.md","x":-40,"y":0,"width":400,"height":400},
-		{"id":"df3ce7dadc18e8ff","type":"file","file":"Support/Shariyl/Core UI/List View/ListItem.md","x":-560,"y":640,"width":400,"height":400},
+		{"id":"df3ce7dadc18e8ff","type":"file","file":"Support/Shariyl/Core UI/List View/List Item.md","x":-560,"y":640,"width":400,"height":400},
 		{"id":"a6ef4af117c2b4ce","type":"file","file":"Support/Shariyl/Core UI/List View/_List View.md","x":-560,"y":1200,"width":400,"height":400},
 		{"id":"aa90d87e973031c0","type":"file","file":"Support/Shariyl/Core UI/Description Box/Description Box.md","x":280,"y":920,"width":400,"height":400},
 		{"id":"d033011381f10227","type":"file","file":"Support/Shariyl/Core UI/List View with Description Box/_List View with Description Box.md","x":160,"y":1760,"width":400,"height":400},

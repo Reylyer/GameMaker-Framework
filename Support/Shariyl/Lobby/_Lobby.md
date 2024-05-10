@@ -1,6 +1,6 @@
 ---
 Dependencies:
-  - "[[List View|List View]]"
+  - "[[List Menu|List View]]"
 aliases:
   - Lobby
 tags:
