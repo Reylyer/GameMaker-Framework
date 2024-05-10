@@ -1,6 +1,5 @@
 ---
-Dependencies:
-  - "[[_Core UI]]"
+Dependencies: "[[_Core UI]]"
 aliases:
   - List View
 tags:

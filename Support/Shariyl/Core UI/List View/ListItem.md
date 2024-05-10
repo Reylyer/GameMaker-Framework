@@ -8,7 +8,7 @@ cssclasses:
   - Atom
 ---
 # Inherits
-![[Debuggable Hover]]
+![[Frame]]
 
 # TODO
 - [x] Clear suggestion incosistent naming
@@ -16,12 +16,10 @@ cssclasses:
 - [x] converted indent to space
 
 # Attributes
-| Name | Type | Description |
-| ---- | ---- | ---- |
-| `x` | `Real` | The x origin, left side. |
-| `y` | `Real` | The y origin, upper side. |
-| `w` |  |  |
-| `h` |  |  |
+| Name | Type   | Description               |
+| ---- | ------ | ------------------------- |
+| `w`  |        |                           |
+| `h`  |        |                           |
 # Methods
 | Name | Param | Returns | Description |
 | ---- | ---- | ---- | ---- |
