@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garuda Emblem/Objects/main_object/Human.md",
+                "file": "Support/Shariyl/Core UI/List View/List View.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 341.5
   },
   "right": {
     "id": "451e3e34dfabc95c",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garuda Emblem/Objects/main_object/Human.md",
+                "file": "Support/Shariyl/Core UI/List View/List View.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garuda Emblem/Objects/main_object/Human.md",
+                "file": "Support/Shariyl/Core UI/List View/List View.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garuda Emblem/Objects/main_object/Human.md"
+                "file": "Support/Shariyl/Core UI/List View/List View.md"
               }
             }
           },
@@ -222,18 +222,21 @@
   },
   "active": "46e0862cdf20f4be",
   "lastOpenFiles": [
+    "Support/Shariyl/Core UI/List View/ListItem.md",
+    "Support/Shariyl/Core UI/List View/List View.md",
+    "Support/Shariyl/Core UI/_Contracts/Macros.md",
+    "Support/Shariyl/Core UI/_Contracts/Debuggable Hover.md",
+    "Support/Shariyl/Core/HasTrigger.md",
+    "Support/Shariyl/Core/HasTransform.md",
+    "Garuda Emblem/README.md",
+    "Garuda Emblem/Objects/main_object/Human.md",
     "Garuda Emblem/Objects/main_object/Player.md",
     "_Templates/Object.md",
-    "Garuda Emblem/Objects/main_object/Human.md",
     "Garuda Emblem/Objects/main_object/Enemy.md",
     "Garuda Emblem/Enemy/o_human.md",
     "index.md",
     "Perjuangan/Step 1 - Suppress Dan Fix Error.md",
     "Support/Shariyl/Core UI/_Core UI.md",
-    "Support/Shariyl/Core UI/_Contracts/Debuggable Hover.md",
-    "Support/Shariyl/Core UI/_Contracts/Macros.md",
-    "Support/Shariyl/Core/HasTrigger.md",
-    "Support/Shariyl/Core/HasTransform.md",
     "Support/Shariyl/Core UI/Primitives/Point2D.md",
     "Support/Shariyl/Core UI/Primitives/Frame.md",
     "Support/Shariyl/Core UI/List View with Description Box/_List View with Description Box.md",
@@ -244,15 +247,12 @@
     "README.md",
     "asd.md",
     "2024-01-19.md",
-    "Support/Shariyl/Core UI/List View/ListItem.md",
-    "Support/Shariyl/Core UI/List View/List View.md",
     "Dependency Graph.canvas",
     "Core/HierarchicalTransform.md",
     "Core",
     "Core UI/Primitives/ScrollBar.md",
     "Core UI/Primitives",
     "Core UI",
-    "Support/Shariyl/Core UI/Description Box/Description Box.md",
     "Support/Shariyl/UI",
     "Perjuangan/Attachments/Pasted image 20240418235136.png",
     "Perjuangan/Attachments",
