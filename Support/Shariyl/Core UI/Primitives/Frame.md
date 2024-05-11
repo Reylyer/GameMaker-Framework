@@ -12,9 +12,6 @@ aliases:
 # About
 A simple frame that can contains an object, sprite, or another frame.
 # TODO
-- [x] Clear suggestion incosistent naming
-- [ ] JSDoc
-- [x] converted indent to space
 
 # Attributes
 | Name | Type | Description |
@@ -35,3 +32,8 @@ A simple frame that can contains an object, sprite, or another frame.
 | `get_center_horizontal` |  | `Real` | Get the center of x axis |
 | `get_center_vertical` |  | `Real` | Get the center of y axis |
 
+# Events
+## Draw
+
+
+Inherit
