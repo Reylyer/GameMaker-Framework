@@ -27,15 +27,15 @@ A frame that contains a generic container that can be sprite or object; or a spr
 
 #### Parameters
 
-| Name     | Type                                 | Description               |
-| -------- | ------------------------------------ | ------------------------- |
-| `_media` | `Asset.GMObject` \| `Asset.GMSprite` | Media yang ditampilkan di |
-|          |                                      |                           |
+| Name     | Type                                 | Description                                  |
+| -------- | ------------------------------------ | -------------------------------------------- |
+| `_media` | `Asset.GMObject` \| `Asset.GMSprite` | Media yang ditampilkan dalam description box |
+
 #### Returns 
-> `Boolean`
+> `None`
 
 #### Description
-> This method will return `true` if `self` is within the rectangle defined by `_p1` and `_p2`; otherwise, it returns `false`.
+> Set media ke description box yang sekaligus handle posisi dan 
 
 ## Events
 
