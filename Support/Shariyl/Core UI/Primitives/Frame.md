@@ -34,6 +34,14 @@ A simple frame that can contains an object, sprite, or another frame.
 
 # Events
 ## Draw
+Draw outline dari frame `(x, y) (x + w, y + h)`
 
+**Inherit** di awal atau di akhir untuk melihat frame
 
-Inherit
+## Draw GUI
+Menambah informasi debug saat di hover
+
+**Inherit** secara kondisional jika [[option]] `debug` diset `True` dan menambahkan informasi untuk dilog dengan `ds_list_add(messages, "log here");`
+## Step
+Update  `mouse_position`
+
