@@ -1,14 +1,14 @@
 {
 	"nodes":[
 		{"id":"fe8cf6f9ce6462f2","type":"group","x":-1160,"y":-640,"width":2480,"height":3000,"label":"Core UI"},
-		{"id":"8b860aae13b302a0","type":"file","file":"Support/Shariyl/Core UI/Primitives/Frame.md","x":-40,"y":0,"width":400,"height":400},
-		{"id":"df3ce7dadc18e8ff","type":"file","file":"Support/Shariyl/Core UI/List View/List Item.md","x":-560,"y":640,"width":400,"height":400},
+		{"id":"8b860aae13b302a0","type":"file","file":"Support/Shariyl/Core UI/Frame.md","x":-40,"y":0,"width":400,"height":400},
+		{"id":"df3ce7dadc18e8ff","type":"file","file":"Support/Shariyl/Core UI/List Item.md","x":-560,"y":640,"width":400,"height":400},
 		{"id":"a6ef4af117c2b4ce","type":"file","file":"Support/Shariyl/Core UI/List View/_List View.md","x":-560,"y":1200,"width":400,"height":400},
-		{"id":"aa90d87e973031c0","type":"file","file":"Support/Shariyl/Core UI/Description Box/Description Box.md","x":280,"y":920,"width":400,"height":400},
+		{"id":"aa90d87e973031c0","type":"file","file":"Support/Shariyl/Core UI/Description Box.md","x":280,"y":920,"width":400,"height":400},
 		{"id":"d033011381f10227","type":"file","file":"Support/Shariyl/Core UI/List View with Description Box/_List View with Description Box.md","x":160,"y":1760,"width":400,"height":400},
 		{"id":"2c4488c82fc88d97","type":"file","file":"Support/Shariyl/Core UI/_Contracts/Debuggable Hover.md","x":-40,"y":-560,"width":400,"height":400},
 		{"id":"99d3437deda53c2a","type":"file","file":"Data Structures/Utils/Access helper.md","x":2120,"y":-1640,"width":400,"height":400},
-		{"id":"9bc0858606a8a4d1","type":"file","file":"Support/Shariyl/Core UI/Primitives/ScrollBar.md","x":-1020,"y":640,"width":400,"height":400},
+		{"id":"9bc0858606a8a4d1","type":"file","file":"Support/Shariyl/Core UI/ScrollBar.md","x":-1020,"y":640,"width":400,"height":400},
 		{"id":"937d4eaeeaa7efa6","x":-40,"y":-1160,"width":400,"height":400,"type":"file","file":"Support/Shariyl/Core/HasTransform.md"}
 	],
 	"edges":[
