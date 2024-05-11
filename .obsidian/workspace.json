@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Sprite.md",
+                "file": "Support/Shariyl/Core UI/Description Box.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Sprite.md",
+                "file": "Support/Shariyl/Core UI/Description Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Sprite.md",
+                "file": "Support/Shariyl/Core UI/Description Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Sprite.md"
+                "file": "Support/Shariyl/Core UI/Description Box.md"
               }
             }
           },
@@ -222,18 +222,23 @@
   },
   "active": "46e0862cdf20f4be",
   "lastOpenFiles": [
-    "Support/Shariyl/Core UI/Text Generic.md",
+    "Support/Shariyl/Core UI/_Core UI.md",
     "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Sprite.md",
-    "Support/Shariyl/Core UI/Text Generic Specialization",
+    "Support/Shariyl/Core UI/Point2D.md",
+    "Support/Shariyl/Core UI/ScrollBar.md",
+    "Support/Shariyl/Core UI/Text Generic.md",
+    "Support/Shariyl/Core UI/List Item.md",
+    "Support/Shariyl/Core UI/List Menu.md",
     "Support/Shariyl/Core UI/Description Box.md",
+    "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Sprite Text.md",
+    "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Text.md",
+    "Support/Shariyl/Core UI/Text Generic Specialization/Untitled.md",
+    "Support/Shariyl/Core UI/Text Generic Specialization",
     "Support/Standards/option.md",
     "Support/Shariyl/Core UI/List View with Description Box/_List View with Description Box.md",
     "Support/Standards",
     "Support/Shariyl/Core UI/Frame.md",
     "index.md",
-    "Support/Shariyl/Core UI/Point2D.md",
-    "Support/Shariyl/Core UI/List Menu.md",
-    "Support/Shariyl/Core UI/List Item.md",
     "_Templates/Object.md",
     "_Templates/Package.md",
     "_Templates/Atom.md",
@@ -245,11 +250,6 @@
     "Support/Shariyl/Core/HasTrigger.md",
     "Support/Shariyl/Core/HasTransform.md",
     "Garuda Emblem/README.md",
-    "Garuda Emblem/Objects/main_object/Human.md",
-    "Garuda Emblem/Objects/main_object/Player.md",
-    "Garuda Emblem/Objects/main_object/Enemy.md",
-    "Garuda Emblem/Enemy/o_human.md",
-    "Perjuangan/Step 1 - Suppress Dan Fix Error.md",
     "Support/Shariyl/Dependency Graph.canvas",
     "Dependency Graph.canvas",
     "Core",
