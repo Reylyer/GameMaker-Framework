@@ -32,7 +32,7 @@ A simple frame that can contains an object, sprite, or another frame.
 | `get_center_horizontal` |  | `Real` | Get the center of x axis |
 | `get_center_vertical` |  | `Real` | Get the center of y axis |
 
-# Events
+# Events Summary
 ## Draw
 Draw outline dari frame `(x, y) (x + w, y + h)`
 
@@ -43,5 +43,7 @@ Menambah informasi debug saat di hover
 
 **Inherit** secara kondisional jika [[option]] `debug` diset `True` dan menambahkan informasi untuk dilog dengan `ds_list_add(messages, "log here");`
 ## Step
-Update  `mouse_position`
+Update posisi frame jika didrag atau diresize
+
+**Inherit** di awal jika frame dapat digeser atau diresize.
 
