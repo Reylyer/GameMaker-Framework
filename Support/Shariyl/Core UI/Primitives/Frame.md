@@ -11,9 +11,6 @@ aliases:
 ---
 # About
 A simple frame that can contains an object, sprite, or another frame.
-# Inherits
-![[Debuggable Hover]]
-
 # TODO
 - [x] Clear suggestion incosistent naming
 - [ ] JSDoc

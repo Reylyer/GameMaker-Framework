@@ -16,12 +16,15 @@ Inherits: "[[Frame]]"
 # About
 
 ## Attributes
-| Name            | Type        | Description                                                |
-| --------------- | ----------- | ---------------------------------------------------------- |
-| `active_index`  | `Real`      | Index dalam list yang aktif, nilai akan dalam range 0 - `` |
-| `active_anchor` | `Real`      | x                                                          |
-| `scrollbar`     | `ScrollBar` | The scrollbar used to sync                                 |
-|                 |             |                                                            |
+| Name              | Type                                 | Description                                                  |
+| ----------------- | ------------------------------------ | ------------------------------------------------------------ |
+| `active_index`    | `Real`                               | Index dalam list yang aktif, nilai akan dalam range 0 - ``   |
+| `active_anchor`   | `Real`                               | x                                                            |
+| `surface_name`    | `string`                             | String yang digunakan sebagai id dari surface yang digunakan |
+| `item_list`       | [[List Item\|obj_core_ui_list_item]] |                                                              |
+| `scrollbar`       | `ScrollBar`                          | x                                                            |
+| `description_box` |                                      |                                                              |
+|                   |                                      |                                                              |
 
 
 

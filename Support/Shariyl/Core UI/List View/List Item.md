@@ -1,11 +1,13 @@
 ---
-Source Filename: 
+Source Filename: obj_core_ui_list_item
 Dependencies: 
 Inherit: 
 tags:
   - TODO
 cssclasses:
   - Atom
+aliases:
+  - obj_core_ui_list_item
 ---
 # About
 A frame that contains a text for title and text for subtitle. It is used by [[List Menu|List View]] by default.
