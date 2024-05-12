@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Core UI/Text Generic.md",
+                "file": "Support/Shariyl/Core UI/Text Generic Element.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/Shariyl/Core UI/Text Generic.md",
+                "file": "Support/Shariyl/Core UI/Text Generic Element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/Shariyl/Core UI/Text Generic.md",
+                "file": "Support/Shariyl/Core UI/Text Generic Element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Shariyl/Core UI/Text Generic.md"
+                "file": "Support/Shariyl/Core UI/Text Generic Element.md"
               }
             }
           },
@@ -222,6 +222,8 @@
   },
   "active": "46e0862cdf20f4be",
   "lastOpenFiles": [
+    "_Templates/Function.md",
+    "Support/Shariyl/Core UI/Text Generic Element.md",
     "Support/Shariyl/Core UI/ScrollBar.md",
     "Support/Shariyl/Core UI/Point2D.md",
     "Support/Shariyl/Core UI/List Menu.md",
@@ -240,7 +242,6 @@
     "Garuda Emblem/Read us/Intro to GameMaker.md",
     "Garuda Emblem/Read us/Naming Convention.md",
     "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Sprite.md",
-    "Support/Shariyl/Core UI/Text Generic.md",
     "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Sprite Text.md",
     "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Text.md",
     "Support/Shariyl/Core UI/Text Generic Specialization/Untitled.md",
@@ -249,7 +250,6 @@
     "Support/Shariyl/Core UI/List View with Description Box/_List View with Description Box.md",
     "Support/Standards",
     "index.md",
-    "_Templates/Package.md",
     "Support/Shariyl/Dependency Graph.canvas",
     "Dependency Graph.canvas",
     "Core",
