@@ -1,17 +1,15 @@
 ---
 Source Filename: obj_player
 Dependencies: 
-Inherit: 
+Inherits: 
 tags:
   - TODO
 cssclasses:
   - Atom
 aliases:
+  - obj_player
 ---
-# TODO
-- [ ] Clear suggestion incosistent naming
-- [ ] JSDoc
-- [ ] converted indent to space
+
 # About
 
 ## Attributes

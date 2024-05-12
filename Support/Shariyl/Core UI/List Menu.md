@@ -1,15 +1,15 @@
 ---
+Source Filename: obj_core_ui_list_menu
 Dependencies: "[[_Core UI]]"
-aliases:
-  - List View
-  - List Menu
-  - obj_core_ui_list_menu
+Inherits: "[[Frame|obj_core_ui_frame]]"
 tags:
   - TODO
 cssclasses:
   - Atom
-Source Filename: obj_core_ui_list_menu
-Inherits: "[[Frame]]"
+aliases:
+  - List View
+  - List Menu
+  - obj_core_ui_list_menu
 ---
 # TODO
 - [ ] Nulis dokumentasi

@@ -1,7 +1,7 @@
 ---
 Source Filename: obj_core_ui_text_generic
 Dependencies: 
-Inherits: "[[Frame]]"
+Inherits: "[[Frame|obj_core_ui_frame]]"
 tags:
   - TODO
 cssclasses:

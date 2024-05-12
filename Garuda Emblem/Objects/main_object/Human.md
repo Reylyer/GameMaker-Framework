@@ -1,7 +1,7 @@
 ---
 Source Filename: obj_human
 Dependencies: 
-Inherit: 
+Inherits: 
 tags:
   - TODO
 cssclasses:

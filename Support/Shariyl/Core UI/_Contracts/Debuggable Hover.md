@@ -1,7 +1,7 @@
 ---
 Source Filename: obj_i_core_ui_debuggable_hover
 Dependencies: 
-Inherit: 
+Inherits: 
 tags:
   - TODO
 cssclasses:

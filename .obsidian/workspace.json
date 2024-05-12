@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/Object.md",
+                "file": "Garuda Emblem/Objects/main_object/Player.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,6 +84,24 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "d23f0c79cff35921",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd4f99fdf0f7b054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Templates/Object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Templates/Object.md",
+                "file": "Garuda Emblem/Objects/main_object/Player.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Templates/Object.md",
+                "file": "Garuda Emblem/Objects/main_object/Player.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Templates/Object.md"
+                "file": "Garuda Emblem/Objects/main_object/Player.md"
               }
             }
           },
@@ -222,33 +240,33 @@
   },
   "active": "46e0862cdf20f4be",
   "lastOpenFiles": [
+    "Garuda Emblem/Objects/main_object/Human.md",
+    "Garuda Emblem/Objects/main_object/Enemy.md",
+    "Support/Shariyl/Core UI/_Contracts/Debuggable Hover.md",
+    "Support/Shariyl/Core UI/_Contracts/Macros.md",
     "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Sprite.md",
-    "Support/Shariyl/Core UI/Text Generic Element.md",
-    "Support/Shariyl/Core UI/Text Generic.md",
-    "_Templates/Function.md",
-    "Support/Shariyl/Core UI/ScrollBar.md",
-    "Support/Shariyl/Core UI/Point2D.md",
-    "Support/Shariyl/Core UI/List Menu.md",
-    "Support/Shariyl/Core UI/List Item.md",
-    "Support/Shariyl/Core UI/Frame.md",
-    "Support/Shariyl/Core UI/Description Box.md",
+    "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Sprite Text.md",
+    "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Text.md",
     "Support/Shariyl/Core UI/_Core UI.md",
+    "Support/Shariyl/Core UI/Description Box.md",
+    "Support/Shariyl/Core UI/Frame.md",
+    "Support/Shariyl/Core UI/List Item.md",
+    "Support/Shariyl/Core UI/List Menu.md",
+    "Support/Shariyl/Core UI/Point2D.md",
+    "Support/Shariyl/Core UI/ScrollBar.md",
+    "Support/Shariyl/Core UI/Text Generic.md",
+    "Support/Shariyl/Core UI/Text Generic Element.md",
     "_Templates/Object.md",
+    "_Templates/Function.md",
     "Support/Shariyl/Data Structures/Utils/Access helper.md",
     "Support/Shariyl/Data Structures/List.md",
     "Support/Shariyl/Data Structures/HashMap.md",
     "Support/Shariyl/Data Structures/_Data Structures.md",
-    "Garuda Emblem/Objects/main_object/Human.md",
-    "Garuda Emblem/Objects/main_object/Enemy.md",
     "Garuda Emblem/README.md",
     "Garuda Emblem/Read us/Intro to GameMaker.md",
     "Garuda Emblem/Read us/Naming Convention.md",
-    "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Sprite Text.md",
-    "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Text.md",
     "Support/Shariyl/Core UI/Text Generic Specialization/Untitled.md",
     "Support/Shariyl/Core UI/Text Generic Specialization",
-    "Support/Standards/option.md",
-    "Support/Shariyl/Core UI/List View with Description Box/_List View with Description Box.md",
     "Support/Standards",
     "Support/Shariyl/Dependency Graph.canvas",
     "Dependency Graph.canvas",

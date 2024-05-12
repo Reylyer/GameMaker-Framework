@@ -1,7 +1,7 @@
 ---
 Source Filename: obj_core_ui_generic_element_par
 Dependencies: 
-Inherits: "[[Frame]]"
+Inherits: "[[Frame|obj_core_ui_frame]]"
 tags:
   - TODO
 cssclasses:
@@ -25,7 +25,7 @@ Full from inherited
 ### Description
 > Fungsi yang akan dipanggil saat draw. Fungsi ini akan dipanggil oleh wrapper tambahan [[Text Generic Element#`draw_on_surface`|draw_on_surface]].
 > 
-> Method ini tidak diimplementasikan di parent, method ini ditujukan untuk dioverride di child yang akan mengatur cara menggambar elementnya. Lihat [[obj_core_ui_gene]]
+> Method ini tidak diimplementasikan di parent, method ini ditujukan untuk dioverride di child yang akan mengatur cara menggambar elementnya. Lihat [[Text Generic Element Sprite|obj_core_ui_generic_element_sprite]]
 
 ---
 

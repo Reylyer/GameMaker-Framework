@@ -1,7 +1,7 @@
 ---
 Source Filename: obj_enemy
 Dependencies: 
-Inherit: 
+Inherits: 
 tags:
   - TODO
 cssclasses:
