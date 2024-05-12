@@ -14,33 +14,28 @@ A frame that contains a generic container that can be sprite or object; or a spr
 # TODO
 - [ ] TODO
 
-## Attributes
+# Attributes
 | Name            | Type                                    | Description                                                                                   |
 | --------------- | --------------------------------------- | --------------------------------------------------------------------------------------------- |
 | `maximum_lines` | `Real`                                  | Not implemented yet                                                                           |
 | `media`         | `Asset.GMSprite` or an `Asset.GMObject` | The media show/played on the upperside of the description box;                                |
 | `description`   | `String`                                | The text shown below the media. The text will be wrapped around the width of description box. |
 |                 |                                         |                                                                                               |
-## Methods
+# Methods
 
-### `set_media`
+## `set_media`
 
 #### Parameters
 
 | Name     | Type                                 | Description                                  |
 | -------- | ------------------------------------ | -------------------------------------------- |
 | `_media` | `Asset.GMObject` \| `Asset.GMSprite` | Media yang ditampilkan dalam description box |
-
-#### Returns 
+### Returns 
 > `None`
 
-#### Description
+### Description
 > Set media ke description box yang sekaligus handle posisi dan 
 
-## Events
 
-# Attributes
-
-# Methods
 
 

@@ -25,9 +25,6 @@ Inherits: "[[Frame]]"
 | `scrollbar`       | `ScrollBar`                          | x                                                            |
 | `description_box` |                                      |                                                              |
 |                   |                                      |                                                              |
-
-
-
 ## Methods
 
 ## Events

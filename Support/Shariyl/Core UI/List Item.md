@@ -11,9 +11,6 @@ aliases:
 ---
 # About
 A frame that contains a text for title and text for subtitle. It is used by [[List Menu|List View]] by default.
-# Inherits
-![[Frame]]
-
 # TODO
 - [x] Clear suggestion incosistent naming
 - [ ] JSDoc
