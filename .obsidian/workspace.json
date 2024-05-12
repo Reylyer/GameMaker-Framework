@@ -84,24 +84,6 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "d23f0c79cff35921",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fd4f99fdf0f7b054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/Object.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
