@@ -7,8 +7,6 @@ tags:
 cssclasses:
   - Atom
 ---
-# TODO
-- JSDoc
 # About
  Helper function for accessing some native data structures with safe check. If the key is exist, return the value, else return `pointer_null`. It will be treated same as `false` if used in Boolean expression. Thus, you can safe access in one line like this:
 

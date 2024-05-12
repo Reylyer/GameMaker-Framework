@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garuda Emblem/Read us/Naming Convention.md",
+                "file": "Support/Shariyl/Data Structures/Utils/Access helper.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garuda Emblem/Read us/Naming Convention.md",
+                "file": "Support/Shariyl/Data Structures/Utils/Access helper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garuda Emblem/Read us/Naming Convention.md",
+                "file": "Support/Shariyl/Data Structures/Utils/Access helper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garuda Emblem/Read us/Naming Convention.md"
+                "file": "Support/Shariyl/Data Structures/Utils/Access helper.md"
               }
             }
           },
@@ -222,7 +222,14 @@
   },
   "active": "46e0862cdf20f4be",
   "lastOpenFiles": [
+    "Support/Shariyl/Data Structures/List.md",
+    "Support/Shariyl/Data Structures/HashMap.md",
+    "Support/Shariyl/Data Structures/_Data Structures.md",
+    "Garuda Emblem/Objects/main_object/Human.md",
+    "Garuda Emblem/Objects/main_object/Enemy.md",
+    "Garuda Emblem/README.md",
     "Garuda Emblem/Read us/Intro to GameMaker.md",
+    "Garuda Emblem/Read us/Naming Convention.md",
     "Support/Shariyl/Core UI/List Menu.md",
     "Support/Shariyl/Core UI/List Item.md",
     "Support/Shariyl/Core UI/Description Box.md",
@@ -243,13 +250,6 @@
     "_Templates/Object.md",
     "_Templates/Package.md",
     "_Templates/Atom.md",
-    "_Templates/Datetime.md",
-    "_Templates/Function.md",
-    "_Templates/Function param.md",
-    "Support/Shariyl/Core UI/_Contracts/Macros.md",
-    "Support/Shariyl/Core UI/_Contracts/Debuggable Hover.md",
-    "Support/Shariyl/Core/HasTrigger.md",
-    "Support/Shariyl/Core/HasTransform.md",
     "Support/Shariyl/Dependency Graph.canvas",
     "Dependency Graph.canvas",
     "Core",
