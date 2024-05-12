@@ -11,7 +11,7 @@ Ada beberapa jenis file di GameMaker dan GameMaker memiliki static name checker 
 | Sprite       | `spr_` | `s_`              |
 | Room         | `rm_`  | `r_`              |
 | Script       | `sc_`  | `script_`, `scr_` |
-^ this has been 
+^ naming convention dengan  alt sudah tidak 
 
 ## Variable / Member / Attribute
 Untuk variable ditulis dengan snake case dengan beberapa prefix yang ditambahkan untuk mengetahui cara digunakannya variable tersebut. Berikut beberapa prefix yang digunakan
