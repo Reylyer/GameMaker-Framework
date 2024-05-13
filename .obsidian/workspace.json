@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garuda Emblem/Objects/main_object/Player.md",
+                "file": "Garuda Emblem/Objects/systems/ingame/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garuda Emblem/Objects/main_object/Player.md",
+                "file": "Garuda Emblem/Objects/systems/ingame/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garuda Emblem/Objects/main_object/Player.md",
+                "file": "Garuda Emblem/Objects/systems/ingame/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garuda Emblem/Objects/main_object/Player.md"
+                "file": "Garuda Emblem/Objects/systems/ingame/Untitled.md"
               }
             }
           },
@@ -222,6 +222,11 @@
   },
   "active": "46e0862cdf20f4be",
   "lastOpenFiles": [
+    "Garuda Emblem/Objects/Untitled.md",
+    "Garuda Emblem/Objects/systems/ingame/Untitled.md",
+    "Garuda Emblem/Objects/systems/ingame",
+    "Garuda Emblem/Objects/systems",
+    "Garuda Emblem/Objects/main_object/Player.md",
     "Garuda Emblem/Objects/main_object/Human.md",
     "Garuda Emblem/Objects/main_object/Enemy.md",
     "Support/Shariyl/Core UI/_Contracts/Debuggable Hover.md",
@@ -245,9 +250,6 @@
     "Support/Shariyl/Data Structures/HashMap.md",
     "Support/Shariyl/Data Structures/_Data Structures.md",
     "Garuda Emblem/README.md",
-    "Garuda Emblem/Read us/Intro to GameMaker.md",
-    "Garuda Emblem/Read us/Naming Convention.md",
-    "Support/Shariyl/Core UI/Text Generic Specialization/Untitled.md",
     "Support/Shariyl/Core UI/Text Generic Specialization",
     "Support/Standards",
     "Support/Shariyl/Dependency Graph.canvas",
@@ -268,8 +270,6 @@
     "Perjuangan/Attachments/Pasted image 20240419031911.png",
     "Perjuangan/Attachments/Pasted image 20240419031138.png",
     "Perjuangan",
-    "Garuda Emblem/Objects/main_object",
-    "Garuda Emblem/Read us",
     "Untitled/Untitled.canvas"
   ]
 }
