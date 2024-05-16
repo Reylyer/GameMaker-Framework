@@ -27,6 +27,32 @@ aliases:
 |                   |                                      |                                                                                                                                                                                                         |
 |                   |                                      |                                                                                                                                                                                                         |
 # Methods
+## `add_element`
+TODO refactor, let the element construct itself
+### Parameters
+| Name   | Type | Description |
+| ------ | ---- | ----------- |
+| _title |      |             |
+|        |      |             |
+### Returns 
+>  `Mixin` type of 
+
+### Description
+> What
+
+### Example
+   
+```js
+var _c1 = self.add_element(
+	"Quick Combo",
+	"Basic quick combo. Good for starting a combo or extend any combos that possible.",
+	obj_example_farid
+)
+generic_ui_text(_c1, [_light_attack_sprite,]);
+```
+
+---
+
 
 # Events
 
