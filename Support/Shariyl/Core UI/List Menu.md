@@ -16,29 +16,29 @@ aliases:
 # About
 
 # Attributes
-| Name              | Type                                 | Description                                                                                                                                                                                             |
-| ----------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `active_index`    | `Real`                               | Index dalam list yang aktif, nilai akan dalam range 0 - ``                                                                                                                                              |
-| `active_anchor`   | `Real`                               | x                                                                                                                                                                                                       |
-| `surface_name`    | `string`                             | String yang digunakan sebagai id dari surface yang digunakan                                                                                                                                            |
-| `item_list`       | [[List Item\|obj_core_ui_list_item]] | List yang berisikan object object list item, by design elemen dari list ini adalah object [[List Item\|obj_core_ui_list_item]] atau turunannya. **Atribut ini di isi lewat [[#^d48e05\|User Event 0]]** |
-| `scrollbar`       | `ScrollBar`                          | ScrollBar dari list ini (jika ada). **Attribut ini memerlukan manual binding**                                                                                                                          |
-| `description_box` |                                      |                                                                                                                                                                                                         |
-|                   |                                      |                                                                                                                                                                                                         |
-|                   |                                      |                                                                                                                                                                                                         |
+| Name                      | Type                                 | Description                                                                                                                                                                                             |
+| ------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `active_index`            | `Real`                               | Index dalam list yang aktif, nilai akan dalam range 0 - ``                                                                                                                                              |
+| `active_anchor`           | `Real`                               | x                                                                                                                                                                                                       |
+| `surface_name`            | `string`                             | String yang digunakan sebagai id dari surface yang digunakan                                                                                                                                            |
+| `item_list`               | [[List Item\|obj_core_ui_list_item]] | List yang berisikan object object list item, by design elemen dari list ini adalah object [[List Item\|obj_core_ui_list_item]] atau turunannya. **Atribut ini di isi lewat [[#^d48e05\|User Event 0]]** |
+| `scrollbar`               | `ScrollBar`                          | ScrollBar dari list ini (jika ada). **Attribut ini memerlukan manual binding**                                                                                                                          |
+| `description_box`         |                                      |                                                                                                                                                                                                         |
+| `list_item_default_class` | `Asset.GMObject`                     |                                                                                                                                                                                                         |
+|                           |                                      |                                                                                                                                                                                                         |
 # Methods
 ## `add_element`
-TODO refactor, let the list item construct itself and handle it rather than this class, more generic and no need to create objet the menu and the item list
+TODO refactor, let the list item construct itself and handle it rather than this class, more generic and no need to create object to inherit the menu and the item list
 ### Parameters
-| Name   | Type | Description |
-| ------ | ---- | ----------- |
-| _title |      |             |
-|        |      |             |
+| Name          | Type             | Description                                                 |
+| ------------- | ---------------- | ----------------------------------------------------------- |
+| `_data`       | `Id.Struct`      | Data yang perlu untuk membuat sebuah item list              |
+| `_item_class` | `Asset.GMObject` | Class object yang digunakan untuk menginstantiate list baru |
 ### Returns 
->  `Mixin` type of 
+>  `Mixin` type of `_item_class`
 
 ### Description
-> What
+> Method ini digunakan untuk menambah element `list_menu` yang dapat menghandle berbagai macam varian `list_item` sesuai dengan `_item_class` yang diberikan
 
 ### Example
    
