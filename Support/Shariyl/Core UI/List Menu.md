@@ -28,7 +28,7 @@ aliases:
 |                   |                                      |                                                                                                                                                                                                         |
 # Methods
 ## `add_element`
-TODO refactor, let the element construct itself
+TODO refactor, let the list item construct itself and handle it rather than this class, more generic and no need to create objet the menu and the item list
 ### Parameters
 | Name   | Type | Description |
 | ------ | ---- | ----------- |
