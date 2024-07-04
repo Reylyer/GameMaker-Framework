@@ -66,7 +66,7 @@ generic_list.add(3.5);
 ### Parameters
 No param
 ### Returns 
-> Element akhir
+> `Any`
 
 ### Description
 > Melakukan penghapusan element di akhir list sekaligus mengembalikannya sebagai return value
@@ -108,7 +108,7 @@ generic_list.add("a");
 generic_list.add(1);
 generic_list.add(3.5);
 
-var size = generic_list.size();
+var size = generic_list.size(); // size is 3
 ```
 
 ---
@@ -123,32 +123,41 @@ var size = generic_list.size();
 > `Any` 
 
 ### Description
-> Fungsi pengganti aksesor dari 
+> Fungsi pengganti aksesor `[| _index]` untuk tipe data buatan ini
 
 ### Example
    
 ```js
-// TODO: Unimplemented
+var generic_list = new List();
+
+generic_list.add("a");
+generic_list.add(1);
+generic_list.add(3.5);
+
+var second_element = generic_list.at(1); // second_element is 1
 ```
 
 ---
 ## `last`
 
 ### Parameters
-| Name | Type | Description |
-| ---- | ---- | ---- |
-|  |  |  |
-|  |  |  |
+No param
+
 ### Returns 
 > `Any` 
 
 ### Description
-> What
-
+> Menggambil data element terakhir dari list, berbeda dengan [[List#`pop`|pop]], fungsi ini tidak menghapus element terakhir
 ### Example
    
 ```js
-// TODO: Unimplemented
+var generic_list = new List();
+
+generic_list.add("a");
+generic_list.add(1);
+generic_list.add(3.5);
+
+var last_element = generic_list.last(); // last_element is 3.5
 ```
 
 ---
@@ -156,20 +165,24 @@ var size = generic_list.size();
 ## `first`
 
 ### Parameters
-| Name | Type | Description |
-| ---- | ---- | ---- |
-|  |  |  |
-|  |  |  |
+No param
+
 ### Returns 
 > `Any` 
 
 ### Description
-> What
+> Menggambil data element pertama list
 
 ### Example
    
 ```js
-// TODO: Unimplemented
+var generic_list = new List();
+
+generic_list.add("a");
+generic_list.add(1);
+generic_list.add(3.5);
+
+var first_element = generic_list.first(); // first_element is "a"
 ```
 
 ---
@@ -177,20 +190,23 @@ var size = generic_list.size();
 ## `is_not_empty`
 
 ### Parameters
-| Name | Type | Description |
-| ---- | ---- | ---- |
-|  |  |  |
-|  |  |  |
+No param
 ### Returns 
-> `Any` 
+> `Boolean` 
 
 ### Description
-> What
+> Mengecek apakah list tidak kosong, negasi dari [[List#`is_empty`|is_empty]]
 
 ### Example
    
 ```js
-// TODO: Unimplemented
+var generic_list = new List();
+
+generic_list.is_not_empty(); // false
+
+generic_list.add("a");
+
+generic_list.is_not_empty(); // true
 ```
 
 ---
@@ -198,20 +214,24 @@ var size = generic_list.size();
 ## `is_empty`
 
 ### Parameters
-| Name | Type | Description |
-| ---- | ---- | ---- |
-|  |  |  |
-|  |  |  |
+No param
+
 ### Returns 
-> `Any` 
+> `Boolean` 
 
 ### Description
-> What
+> Mengecek apakah list kosong, negasi dari [[List#`is_not_empty`|is_not_empty]]
 
 ### Example
    
 ```js
-// TODO: Unimplemented
+var generic_list = new List();
+
+generic_list.is_not_empty(); // true
+
+generic_list.add("a");
+
+generic_list.is_not_empty(); // false
 ```
 
 ---
@@ -219,12 +239,12 @@ var size = generic_list.size();
 ## `foreach`
 
 ### Parameters
-| Name | Type | Description |
-| ---- | ---- | ---- |
-|  |  |  |
-|  |  |  |
+| Name         | Type       | Description                                |
+| ------------ | ---------- | ------------------------------------------ |
+| `_func`      | `function` | Fungsi yang akan diapply ke setiap element |
+| `_parameter` |            | Not implemented yet TODO                   |
 ### Returns 
-> `Any` 
+> `None` 
 
 ### Description
 > What
@@ -240,15 +260,13 @@ var size = generic_list.size();
 ## `cleanup`
 
 ### Parameters
-| Name | Type | Description |
-| ---- | ---- | ----------- |
-|      |      |             |
-|      |      |             |
+No param
+
 ### Returns 
-> `Any` 
+> `None` 
 
 ### Description
-> What
+> Handler internal untuk melakukan cleanup dari list yang dibuat
 
 ### Example
    
