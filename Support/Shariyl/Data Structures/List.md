@@ -192,7 +192,7 @@ var first_element = generic_list.first(); // first_element is "a"
 ### Parameters
 No param
 ### Returns 
-> `Boolean` 
+> `Bool` 
 
 ### Description
 > Mengecek apakah list tidak kosong, negasi dari [[List#`is_empty`|is_empty]]
@@ -244,15 +244,21 @@ generic_list.is_not_empty(); // false
 | `_func`      | `function` | Fungsi yang akan diapply ke setiap element |
 | `_parameter` |            | Not implemented yet TODO                   |
 ### Returns 
-> `None` 
+> [[List]] 
 
 ### Description
-> What
+> Fungsi yang akan meng-apply fungsi `_func` ke setiap element yang ada di list. Fungsi ini tidak melakukan modifikasi terhadap list aslinya dan akan mereturn [[List]] baru hasil dari kembalian fungsi ke setiap element
 
 ### Example
    
 ```js
-// TODO: Unimplemented
+var num_list = new List();
+
+num_list.add(10);
+num_list.add(1);
+num_list.add(3.5);
+
+var squared_list = num_list.foreach(function(_element) {return _element * _element})
 ```
 
 ---
