@@ -52,18 +52,12 @@ generic_list.add(3.5);
 ### Description
 > Alias dari [[List#`add`|add]]
 
-### Example
-   
-```js
-var generic_list = new List();
+---
 
-generic_list.push("a");
-generic_list.push(1);
-generic_list.push(3.5);
+## `append`
 
-// hasil akhir generic_list
-// [ "a", 1, 3.5]
-```
+### Description
+> Alias dari [[List#`add`|add]]
 
 ---
 
@@ -75,16 +69,25 @@ No param
 > Element akhir
 
 ### Description
-> Melakukan penghapusan element di akhir list sekaligun mengembalikannya sebagai return value
+> Melakukan penghapusan element di akhir list sekaligus mengembalikannya sebagai return value
 
 ### Example
    
 ```js
-// TODO: Unimplemented
+var generic_list = new List();
+
+generic_list.add("a");
+generic_list.add(1);
+generic_list.add(3.5);
+
+var last = generic_list.pop();
+
+// hasil akhir generic_list
+// [ "a", 1]
+// last == 3.5
 ```
 
 ---
-
 
 ## `size`
 
@@ -99,7 +102,13 @@ No param
 ### Example
    
 ```js
-// TODO: Unimplemented
+var generic_list = new List();
+
+generic_list.add("a");
+generic_list.add(1);
+generic_list.add(3.5);
+
+var size = generic_list.size();
 ```
 
 ---
@@ -107,14 +116,14 @@ No param
 ## `at`
 
 ### Parameters
-| Name | Type | Description |
-| ---- | ---- | ----------- |
-|      |      |             |
+| Name     | Type   | Description                    |
+| -------- | ------ | ------------------------------ |
+| `_index` | `Real` | Index list yang ingin di akses |
 ### Returns 
 > `Any` 
 
 ### Description
-> What
+> Fungsi pengganti aksesor dari 
 
 ### Example
    
