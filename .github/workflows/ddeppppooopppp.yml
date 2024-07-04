@@ -24,7 +24,7 @@ jobs:
 
       - name: warp connection test
         run: |
-          ping -c 4 10.10.10.10
+          ping -c 4 10.0.0.1
           
       - name: sync
         env:
