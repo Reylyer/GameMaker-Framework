@@ -3,7 +3,7 @@
 
 # Todo
 - [ ] Ngejar ngedokumentasi sistem yang udah ada
-- [ ] 
+- [x] Dokumentasi List
 
 # For QOL
 - [ ] Implement fitur/tipe data reference | **IN TESTING 

@@ -13,7 +13,7 @@ aliases:
 
 # TODO
 - [ ] Bikin abourt
-- [ ] isi methods
+- [x] isi methods
 # Attributes
 
 | Name   | Type      | Description                   |
@@ -217,7 +217,7 @@ generic_list.is_not_empty(); // true
 No param
 
 ### Returns 
-> `Boolean` 
+> `Bool` 
 
 ### Description
 > Mengecek apakah list kosong, negasi dari [[List#`is_not_empty`|is_not_empty]]
