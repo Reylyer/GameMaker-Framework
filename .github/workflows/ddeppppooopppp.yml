@@ -28,7 +28,7 @@ jobs:
           
       - name: sync
         env:
-          dest: "${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/home/${{ secrets.SSH_USER }}/quartz/content"
+          dest: "${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/home/${{ secrets.SSH_USER }}/batalion-framework/content"
         run: |
           echo "${{secrets.DEPLOY_KEY}}" > ~/deploy_key
           chmod 600 ~/deploy_key
@@ -47,5 +47,5 @@ jobs:
           key: ${{ secrets.DEPLOY_KEY }}
           port: 22
           script: |
-            cd /home/${{ secrets.SSH_USER }}/quartz/
+            cd /home/${{ secrets.SSH_USER }}/batalion-framework/
             npx quartz build
