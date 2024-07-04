@@ -1,0 +1,125 @@
+@startuml Spawn In General
+
+title Spawn In General
+
+!theme sketchy-outline
+
+hide footbox
+
+actor player as "__:Player__"
+control obj_menu_training as "__:obj_menu_training__"
+control obj_training_list_item as "__:obj_training_list_item__"
+control obj_menu_select_enemy as "__:obj_menu_select_enemy__"
+control obj_menu_select_list_item_enemy as "__:obj_menu_select_list_item (Enemy)__"
+control obj_spawner as "__:obj_spawner__"
+control obj_menu_select_weapon as "__:obj_menu_select_weapon__"
+control obj_menu_select_list_item_weapon as "__:obj_menu_select_list_item (Weapon)__"
+
+' autonumber 1
+player  -> obj_menu_training: Buka menu training
+activate obj_menu_training
+obj_menu_training -> obj_training_list_item : Populate Data
+activate obj_menu_training
+
+activate obj_training_list_item
+
+group Spawn Enemy
+
+player -> obj_training_list_item: pilih item enemy 
+
+obj_training_list_item -> obj_menu_select_enemy: Spawn Menu Enemy 
+activate obj_menu_select_enemy
+
+obj_training_list_item -> obj_menu_training: disable
+deactivate obj_menu_training
+deactivate obj_training_list_item
+' obj_training_list_item -> obj_training_list_item: disable self
+
+' activate obj_menu_select_enemy
+obj_menu_select_enemy -> obj_menu_select_list_item_enemy : Populate Data
+activate obj_menu_select_enemy
+activate obj_menu_select_list_item_enemy
+
+
+group Back
+
+player -> obj_menu_select_enemy: Tekan button back 
+
+obj_menu_select_enemy -> obj_menu_select_list_item_enemy: destroy
+deactivate obj_menu_select_list_item_enemy
+obj_menu_select_enemy -> obj_menu_training: pass control (destroy self)
+deactivate obj_menu_select_enemy
+deactivate obj_menu_select_enemy
+activate obj_menu_training
+
+
+activate obj_spawner
+
+
+
+end
+
+end
+
+
+' activate obj_menu_training
+
+
+
+' obj_menu_training -> obj_menu_training : Populate Data
+' activate obj_menu_training
+
+' obj_menu_training -> obj_training_list_item: Create
+
+' deactivate obj_menu_training
+' activate obj_training_list_item
+
+' group Pilih item "Enemy"
+' obj_training_list_item -> obj_menu_select_enemy: Create
+' activate obj_menu_select_enemy
+
+' obj_menu_select_enemy -> obj_menu_select_enemy: Populate Data
+' activate obj_menu_select_enemy
+
+' obj_menu_select_enemy -> obj_menu_select_list_item_enemy: Create
+' deactivate obj_menu_select_enemy
+
+' activate obj_menu_select_list_item_enemy
+
+' obj_menu_select_list_item_enemy -> obj_spawner: enemy selected
+' activate obj_spawner
+' deactivate obj_spawner
+
+
+
+' obj_menu_select_list_item_enemy -> obj_menu_select_enemy: back
+' deactivate obj_menu_select_list_item_enemy
+
+' deactivate obj_menu_select_enemy
+
+
+' end
+
+' group Pilih item "Weapon"
+' obj_training_list_item -> obj_menu_select_weapon: Create
+' activate obj_menu_select_weapon
+
+' obj_menu_select_weapon -> obj_menu_select_weapon : Populate Data
+' activate obj_menu_select_weapon
+
+
+
+' end
+
+
+
+
+@enduml
+
+@startuml asd
+
+!theme sketchy
+
+
+
+@enduml

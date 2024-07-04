@@ -1,13 +1,12 @@
 ---
-Source Filename: obj_core_ui_frame
+Source Filename: 
 Dependencies: 
-Inherit: "[[Debuggable Hover]]"
+Inherit: 
 tags:
   - TODO
 cssclasses:
   - Atom
 aliases:
-  - obj_core_ui_frame
 ---
 # About
 A simple frame that can contains an object, sprite, or another frame.

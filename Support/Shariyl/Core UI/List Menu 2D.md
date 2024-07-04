@@ -1,20 +1,18 @@
 ---
-Source Filename: obj_core_ui_list_menu
+Source Filename: obj_core_ui_list_menu_2d
 Dependencies: "[[_Core UI]]"
-Inherits: "[[Frame|obj_core_ui_frame]]"
+Inherits: "[[List Menu|obj_core_ui_list_menu]]"
 tags:
   - TODO
 cssclasses:
   - Atom
 aliases:
-  - List View
-  - List Menu
-  - obj_core_ui_list_menu
+  - List Menu 2D
+  - obj_core_ui_list_menu_2d
 ---
 # About
 # TODO
 - [ ] Nulis dokumentasi
-
 # Attributes
 | Name                      | Type                                 | Description                                                                                                                                                                                             |
 | ------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

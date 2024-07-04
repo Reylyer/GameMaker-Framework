@@ -8,41 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f52abee2a1460d2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garuda Emblem/Read us/Naming Convention.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c78bb675d75502da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Perjuangan/Step 1 - Suppress Dan Fix Error.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "360e6e002d651e60",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Dependency Graph.canvas",
-                "viewState": {
-                  "x": 680,
-                  "y": 360,
-                  "zoom": -2.607432781524851
-                }
+                "file": "Support/Shariyl/Core UI/Chainable Frame.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -52,19 +25,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Core UI/List Menu.md",
+                "file": "Support/Shariyl/Core UI/Text Generic.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "46e0862cdf20f4be",
+            "id": "fc180ef43ab2f680",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garuda Emblem/Objects/systems/ingame/obj_ingame_menu.md",
+                "file": "_Templates/Package.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af0a299dfbd173cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Support/Shariyl/Data Structures/List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97bf61fb5251d5d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Support/Shariyl/Core UI/Frame.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 255.5
   },
   "right": {
     "id": "451e3e34dfabc95c",
@@ -137,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/Shariyl/Core UI/List Menu.md",
+                "file": "Support/Shariyl/Data Structures/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/Shariyl/Core UI/List Menu.md",
+                "file": "Support/Shariyl/Data Structures/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Shariyl/Core UI/List Menu.md"
+                "file": "Support/Shariyl/Data Structures/List.md"
               }
             }
           },
@@ -208,47 +205,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f955d4a028cfcc4c",
+  "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
-    "Support/Shariyl/Core UI/List Item.md",
-    "Support/Shariyl/Core UI/List Menu.md",
-    "`item_list`.md",
-    "Garuda Emblem/Objects/main_object/Player.md",
-    "Garuda Emblem/Objects/systems/ingame/obj_ingame_menu.md",
-    "Garuda Emblem/Objects/systems/ingame/obj_stats_ui_controller.md",
-    "Garuda Emblem/Objects/systems/global",
-    "Garuda Emblem/Objects/Untitled.md",
-    "Garuda Emblem/Objects/systems/ingame",
-    "Garuda Emblem/Objects/systems",
-    "Garuda Emblem/Objects/main_object/Human.md",
-    "Garuda Emblem/Objects/main_object/Enemy.md",
-    "Support/Shariyl/Core UI/_Contracts/Debuggable Hover.md",
-    "Support/Shariyl/Core UI/_Contracts/Macros.md",
-    "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Sprite.md",
-    "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Sprite Text.md",
-    "Support/Shariyl/Core UI/Text Generic Specialization/Text Generic Element Text.md",
+    "2024-07-04.md",
+    "Support/Shariyl/Data Structures/List.md",
+    "Support/Shariyl/Core UI/Chainable Frame.md",
     "Support/Shariyl/Core UI/_Core UI.md",
-    "Support/Shariyl/Core UI/Description Box.md",
-    "Support/Shariyl/Core UI/Frame.md",
-    "Support/Shariyl/Core UI/Point2D.md",
-    "Support/Shariyl/Core UI/ScrollBar.md",
+    "Support/Shariyl/Core/Reference.md",
+    "Support/Standards/option.md",
+    "Support/Shariyl/Data Structures/HashMap.md",
+    "index.md",
+    "_Templates/Object.md",
+    "Support/Shariyl/Core/HasTransform.md",
+    "Support/Shariyl/Core/HasTrigger.md",
+    "Za Todos.md",
+    "Support/README.md",
+    "_Templates/Package.md",
+    "TODOS",
+    "_Templates/Function param.md",
+    "_Templates/Function.md",
+    "_Templates/Datetime.md",
+    "_Templates/Atom.md",
+    "Untitled.canvas",
+    "a.md",
     "Support/Shariyl/Core UI/Text Generic.md",
     "Support/Shariyl/Core UI/Text Generic Element.md",
-    "_Templates/Object.md",
-    "_Templates/Function.md",
-    "Support/Shariyl/Data Structures/Utils/Access helper.md",
-    "Support/Shariyl/Data Structures/List.md",
-    "Support/Shariyl/Data Structures/HashMap.md",
-    "Support/Shariyl/Core UI/Text Generic Specialization",
-    "Support/Standards",
     "Support/Shariyl/Dependency Graph.canvas",
+    "Support/Shariyl/Core UI/Frame.md",
+    "Perjuangan/Step 1 - Suppress Dan Fix Error.md",
+    "Garuda Emblem/Objects/systems/ingame/obj_ingame_menu.md",
+    "Support/Shariyl/Core UI/List Item.md",
+    "Support/Shariyl/Core UI/List Menu.md",
+    "out/plantuml/training_menu/asd.png",
+    "out/plantuml/training_menu/sample.png",
+    "out/plantuml/training_menu",
+    "out/plantuml",
+    "out",
+    "plantuml/training_menu.puml",
+    "plantuml",
+    "Garuda Emblem/Objects/systems/global",
+    "Garuda Emblem/Objects/systems/ingame",
+    "Garuda Emblem/Objects/systems",
+    "Support/Shariyl/Core UI/Text Generic Specialization",
     "Dependency Graph.canvas",
-    "Core",
-    "Core UI/Primitives",
-    "Core UI",
-    "Support/Shariyl/UI",
     "Perjuangan/Attachments/Pasted image 20240418235136.png",
-    "Perjuangan/Attachments",
     "Perjuangan/Attachments/Pasted image 20240419125127.png",
     "Perjuangan/Attachments/Pasted image 20240419041001.png",
     "Perjuangan/Attachments/Pasted image 20240419035842.png",
@@ -256,8 +256,6 @@
     "Perjuangan/Attachments/Pasted image 20240419032658.png",
     "Perjuangan/Attachments/Pasted image 20240419032409.png",
     "Perjuangan/Attachments/Pasted image 20240419032207.png",
-    "Perjuangan/Attachments/Pasted image 20240419031911.png",
-    "Perjuangan/Attachments/Pasted image 20240419031138.png",
     "Untitled/Untitled.canvas"
   ]
 }
