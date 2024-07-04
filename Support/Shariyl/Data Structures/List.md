@@ -35,7 +35,14 @@ aliases:
 ### Example
    
 ```js
-// TODO: Unimplemented
+var generic_list = new List();
+
+generic_list.add("a");
+generic_list.add(1);
+generic_list.add(3.5);
+
+// hasil akhir generic_list
+// [ "a", 1, 3.5]
 ```
 
 ---
@@ -48,7 +55,14 @@ aliases:
 ### Example
    
 ```js
-// TODO: Unimplemented
+var generic_list = new List();
+
+generic_list.push("a");
+generic_list.push(1);
+generic_list.push(3.5);
+
+// hasil akhir generic_list
+// [ "a", 1, 3.5]
 ```
 
 ---
