@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Za Todos.md",
+                "file": "Support/Shariyl/Core/Camera.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Za Todos.md",
+                "file": "Support/Shariyl/Core/Camera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Za Todos.md",
+                "file": "Support/Shariyl/Core/Camera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Za Todos.md"
+                "file": "Support/Shariyl/Core/Camera.md"
               }
             }
           },
@@ -207,8 +207,9 @@
   },
   "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
-    "Support/Shariyl/Data Structures/List.md",
     "Za Todos.md",
+    "Support/Shariyl/Core/Camera.md",
+    "Support/Shariyl/Data Structures/List.md",
     "2024-07-04.md",
     "Support/Shariyl/Core UI/Chainable Frame.md",
     "Support/Shariyl/Core UI/_Core UI.md",
@@ -235,7 +236,6 @@
     "Perjuangan/Step 1 - Suppress Dan Fix Error.md",
     "Garuda Emblem/Objects/systems/ingame/obj_ingame_menu.md",
     "Support/Shariyl/Core UI/List Item.md",
-    "Support/Shariyl/Core UI/List Menu.md",
     "out/plantuml/training_menu/asd.png",
     "out/plantuml/training_menu/sample.png",
     "out/plantuml/training_menu",
