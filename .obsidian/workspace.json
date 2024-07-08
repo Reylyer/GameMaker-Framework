@@ -47,11 +47,14 @@
             "id": "af0a299dfbd173cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Support/Shariyl/Core/Camera.md",
-                "mode": "source",
-                "source": false
+                "file": "Support/Shariyl/Core/Poll and Emit.canvas",
+                "viewState": {
+                  "x": 586.7245467231243,
+                  "y": -357.05277594042116,
+                  "zoom": -0.6666666666666667
+                }
               }
             }
           },
@@ -134,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/Shariyl/Core/Camera.md",
+                "file": "Support/Shariyl/Core/Poll and Emit.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/Shariyl/Core/Camera.md",
+                "file": "Support/Shariyl/Core/Poll and Emit.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Shariyl/Core/Camera.md"
+                "file": "Support/Shariyl/Core/Poll and Emit.canvas"
               }
             }
           },
@@ -207,8 +210,11 @@
   },
   "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
-    "Za Todos.md",
+    "Support/Shariyl/Core/Events",
+    "Support/Shariyl/Core/Event Poll and Emit.md",
+    "Support/Shariyl/Core/Poll and Emit.canvas",
     "Support/Shariyl/Core/Camera.md",
+    "Za Todos.md",
     "Support/Shariyl/Data Structures/List.md",
     "2024-07-04.md",
     "Support/Shariyl/Core UI/Chainable Frame.md",
@@ -234,8 +240,6 @@
     "Support/Shariyl/Dependency Graph.canvas",
     "Support/Shariyl/Core UI/Frame.md",
     "Perjuangan/Step 1 - Suppress Dan Fix Error.md",
-    "Garuda Emblem/Objects/systems/ingame/obj_ingame_menu.md",
-    "Support/Shariyl/Core UI/List Item.md",
     "out/plantuml/training_menu/asd.png",
     "out/plantuml/training_menu/sample.png",
     "out/plantuml/training_menu",
