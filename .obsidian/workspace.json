@@ -47,14 +47,11 @@
             "id": "af0a299dfbd173cf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Core/Poll and Emit.canvas",
-                "viewState": {
-                  "x": 586.7245467231243,
-                  "y": -357.05277594042116,
-                  "zoom": -0.6666666666666667
-                }
+                "file": "Za Todos.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -137,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/Shariyl/Core/Poll and Emit.canvas",
+                "file": "Za Todos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/Shariyl/Core/Poll and Emit.canvas",
+                "file": "Za Todos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Shariyl/Core/Poll and Emit.canvas"
+                "file": "Za Todos.md"
               }
             }
           },
@@ -210,9 +207,10 @@
   },
   "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
+    "index.md",
+    "Support/Shariyl/Core/Poll and Emit.canvas",
     "Support/Shariyl/Core/Events",
     "Support/Shariyl/Core/Event Poll and Emit.md",
-    "Support/Shariyl/Core/Poll and Emit.canvas",
     "Support/Shariyl/Core/Camera.md",
     "Za Todos.md",
     "Support/Shariyl/Data Structures/List.md",
@@ -222,7 +220,6 @@
     "Support/Shariyl/Core/Reference.md",
     "Support/Standards/option.md",
     "Support/Shariyl/Data Structures/HashMap.md",
-    "index.md",
     "_Templates/Object.md",
     "Support/Shariyl/Core/HasTransform.md",
     "Support/Shariyl/Core/HasTrigger.md",
@@ -250,7 +247,6 @@
     "Garuda Emblem/Objects/systems/global",
     "Garuda Emblem/Objects/systems/ingame",
     "Garuda Emblem/Objects/systems",
-    "Support/Shariyl/Core UI/Text Generic Specialization",
     "Dependency Graph.canvas",
     "Perjuangan/Attachments/Pasted image 20240418235136.png",
     "Perjuangan/Attachments/Pasted image 20240419125127.png",
