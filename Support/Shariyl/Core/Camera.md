@@ -147,3 +147,39 @@ for (var _i = 0;_i < ds_list_size(_list); _i++){
 	}
 }
 ```
+
+Huh 3 DIFFERENT way of CLAMPING?
+```js
+...
+//update object position
+	x += (xTo - x ) / pembagi_x;
+	y += (yTo - y) / pembagi_y;
+	
+	x = clamp(x,v_batas_kiri_cam+buff,v_batas_kanan_cam-buff);
+	y = clamp(y,v_batas_atas_cam,v_batas_bawah_cam);
+} else {
+	if(obj_slowmo_parent.vs_animasi < 2){
+		...
+		
+		//update object position
+		x += (xTo - x ) / pembagi_x;
+		y += (yTo - y) / pembagi_y*5;
+		
+		x = clamp(x,v_batas_kiri_cam+buff-view_w_half,v_batas_kanan_cam-buff+view_w_half);
+		y = clamp(y,view_h_half+buff,room_height-view_h_half-buff);
+	}
+	
+	
+	if(obj_slowmo_parent.vs_animasi = 2){
+		...
+	
+		//update object position
+		x += (xTo - x ) / pembagi_x/5;
+		y += (yTo - y) / pembagi_y*5;
+		
+		x = clamp(x,v_batas_kiri_cam+buff,v_batas_kanan_cam-buff);
+		y = clamp(y,view_h_half+buff,room_height-view_h_half-buff);
+	}
+}
+
+```
