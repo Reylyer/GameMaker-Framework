@@ -9,7 +9,10 @@
 ![[Camera Analysis.png]]
 
 ### Problem & Proposed solution
-- [ ] Satu objek yang mengurus semua room yang cukup bermasalaha
+- [ ] Satu objek yang mengurus semua room yang cukup bermasalah untuk pengembangan dengan room yang sangat banyak
+- [ ] Setelah melakukan static analysis ada beberapa code yang duplikat dan tidak konsisten
+- [ ] Expensive list allocation for only a single use every single step... twice...
+- [ ] Dari penjelasan diatas sensor merah hanya berlaku untuk pergerakan horizontal dan tidak ada hadler untuk vertical (Y langsung ditembak ke Y)
 
 old code
 
