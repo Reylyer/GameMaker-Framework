@@ -4,6 +4,13 @@
 
 # Notes
 
+## Old implementation
+
+![[Camera Analysis.png]]
+
+### Problem & Proposed solution
+- [ ] Satu objek yang mengurus semua room yang cukup bermasalaha
+
 old code
 
 ### Code
