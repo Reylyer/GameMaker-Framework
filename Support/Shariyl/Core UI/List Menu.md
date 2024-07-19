@@ -12,6 +12,10 @@ aliases:
   - obj_core_ui_list_menu
 ---
 # About
+List menu merupakan object UI yang menyimpan 1 
+
+![[Pasted image 20240719204240.png]]
+
 # TODO
 - [ ] Nulis dokumentasi
 
