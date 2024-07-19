@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Core/Camera.md",
+                "file": "Za Todos.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/Shariyl/Core/Camera.md",
+                "file": "Za Todos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/Shariyl/Core/Camera.md",
+                "file": "Za Todos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Shariyl/Core/Camera.md"
+                "file": "Za Todos.md"
               }
             }
           },
@@ -207,6 +207,7 @@
   },
   "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
+    "Support/Shariyl/Core/Camera.md",
     "Camera Analysis.png",
     "Pasted image 20240718120908.png",
     "Za Todos.md",
@@ -215,7 +216,6 @@
     "Support/Shariyl/Core/Poll and Emit.canvas",
     "Support/Shariyl/Core/Events",
     "Support/Shariyl/Core/Event Poll and Emit.md",
-    "Support/Shariyl/Core/Camera.md",
     "Support/Shariyl/Data Structures/List.md",
     "2024-07-04.md",
     "Support/Shariyl/Core UI/Chainable Frame.md",
@@ -256,7 +256,6 @@
     "Perjuangan/Attachments/Pasted image 20240419035842.png",
     "Perjuangan/Attachments/Pasted image 20240419033749.png",
     "Perjuangan/Attachments/Pasted image 20240419032658.png",
-    "Perjuangan/Attachments/Pasted image 20240419032409.png",
     "Untitled/Untitled.canvas"
   ]
 }
