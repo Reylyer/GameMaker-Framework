@@ -3,7 +3,9 @@
 
 # Todo
 - [ ] Ngejar ngedokumentasi sistem yang udah ada
-- [x] Dokumentasi List
+- [ ] 
+- [x] Dokumentasi List 
+- [ ] ^ About sama message kelupaan
 
 # For QOL
 - [x] Implement fitur/tipe data reference | **IN TESTING 

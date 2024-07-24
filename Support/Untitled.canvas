@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"cfec18ba5ad2657c","x":-320,"y":140,"width":480,"height":280,"type":"group","label":"-"},
+		{"id":"15000c02f85f3049","x":-320,"y":-280,"width":480,"height":280,"type":"text","text":"# Play"},
+		{"id":"6258766ed475f056","x":-200,"y":220,"width":240,"height":140,"type":"text","text":""},
+		{"id":"c5096b8d6d27d772","x":-180,"y":230,"width":250,"height":60,"type":"text","text":"spawn"},
+		{"id":"5f9ce6d4597d1300","type":"text","text":"spawn","x":-180,"y":300,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"7f91ba507c8b5dc5","fromNode":"15000c02f85f3049","fromSide":"bottom","toNode":"cfec18ba5ad2657c","toSide":"top","label":"R"}
+	]
+}

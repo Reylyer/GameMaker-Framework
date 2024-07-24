@@ -47,11 +47,14 @@
             "id": "af0a299dfbd173cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Za Todos.md",
-                "mode": "source",
-                "source": false
+                "file": "Support/Untitled.canvas",
+                "viewState": {
+                  "x": 129,
+                  "y": 190,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -134,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Za Todos.md",
+                "file": "Support/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Za Todos.md",
+                "file": "Support/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Za Todos.md"
+                "file": "Support/Untitled.canvas"
               }
             }
           },
@@ -207,12 +210,15 @@
   },
   "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
-    "Support/Shariyl/Core UI/List Menu.md",
+    "Untitled.md",
+    "Support/Untitled.canvas",
     "Pasted image 20240719204240.png",
+    "Pasted image 20240718120908.png",
+    "Support/Shariyl/Core UI/List Menu.md",
+    "Support/Shariyl/Core UI/List Menu 2D.md",
     "Za Todos.md",
     "Support/Shariyl/Core/Camera.md",
     "Camera Analysis.png",
-    "Pasted image 20240718120908.png",
     "Support/Shariyl/Core/Untitled.md",
     "index.md",
     "Support/Shariyl/Core/Poll and Emit.canvas",
@@ -237,10 +243,7 @@
     "_Templates/Atom.md",
     "Untitled.canvas",
     "a.md",
-    "Support/Shariyl/Core UI/Text Generic.md",
-    "Support/Shariyl/Core UI/Text Generic Element.md",
     "Support/Shariyl/Dependency Graph.canvas",
-    "Support/Shariyl/Core UI/Frame.md",
     "out/plantuml/training_menu/asd.png",
     "out/plantuml/training_menu/sample.png",
     "out/plantuml/training_menu",

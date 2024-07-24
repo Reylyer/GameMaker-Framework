@@ -12,7 +12,7 @@ aliases:
   - obj_core_ui_list_menu
 ---
 # About
-List menu merupakan object UI yang menyimpan 1 
+List menu merupakan object UI yang menyimpan list satu dimensi. [[List Menu|obj_core_ui_list_menu]] di desain untuk menghandle item yang disusun secara tumpukan/vertikal. Secara default, 
 
 ![[Pasted image 20240719204240.png]]
 
