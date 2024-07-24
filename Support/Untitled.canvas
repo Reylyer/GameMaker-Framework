@@ -1,12 +1,22 @@
 {
 	"nodes":[
-		{"id":"cfec18ba5ad2657c","x":-320,"y":140,"width":480,"height":280,"type":"group","label":"-"},
-		{"id":"15000c02f85f3049","x":-320,"y":-280,"width":480,"height":280,"type":"text","text":"# Play"},
-		{"id":"6258766ed475f056","x":-200,"y":220,"width":240,"height":140,"type":"text","text":""},
-		{"id":"c5096b8d6d27d772","x":-180,"y":230,"width":250,"height":60,"type":"text","text":"spawn"},
-		{"id":"5f9ce6d4597d1300","type":"text","text":"spawn","x":-180,"y":300,"width":250,"height":60}
+		{"id":"cfec18ba5ad2657c","type":"group","x":-320,"y":140,"width":480,"height":280,"label":"Main"},
+		{"id":"d5193c5793763826","type":"group","x":300,"y":-20,"width":480,"height":280,"label":"Spawn"},
+		{"id":"321eb477d6e75112","type":"group","x":300,"y":320,"width":480,"height":280,"label":"Mod"},
+		{"id":"15000c02f85f3049","type":"text","text":"# Play","x":-320,"y":-280,"width":480,"height":280},
+		{"id":"6258766ed475f056","type":"text","text":"","x":-200,"y":200,"width":240,"height":180},
+		{"id":"c5096b8d6d27d772","type":"text","text":"spawn","x":-180,"y":230,"width":250,"height":60},
+		{"id":"a924988735ec1b80","type":"text","text":"Mod","x":-179,"y":306,"width":250,"height":60},
+		{"id":"d5f3f5ec008fcac4","type":"text","text":"","x":420,"y":40,"width":240,"height":180},
+		{"id":"0f2a4a68b515a9c2","type":"text","text":"Enemies","x":440,"y":70,"width":250,"height":60},
+		{"id":"b7f54ef178f003f6","type":"text","text":"Breakable","x":441,"y":146,"width":250,"height":60},
+		{"id":"13884dd3dbac6062","type":"text","text":"","x":420,"y":380,"width":240,"height":180},
+		{"id":"ce5583c890deea64","type":"text","text":"- [x] Infinite Health","x":440,"y":410,"width":250,"height":60},
+		{"id":"83d503fee81bbc81","type":"text","text":"- [ ] Infinite Stamina","x":441,"y":486,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"7f91ba507c8b5dc5","fromNode":"15000c02f85f3049","fromSide":"bottom","toNode":"cfec18ba5ad2657c","toSide":"top","label":"R"}
+		{"id":"7f91ba507c8b5dc5","fromNode":"15000c02f85f3049","fromSide":"bottom","toNode":"cfec18ba5ad2657c","toSide":"top","label":"R"},
+		{"id":"547a01500204f792","fromNode":"c5096b8d6d27d772","fromSide":"right","toNode":"d5193c5793763826","toSide":"left"},
+		{"id":"f8028fc16283f756","fromNode":"a924988735ec1b80","fromSide":"right","toNode":"321eb477d6e75112","toSide":"left"}
 	]
 }
