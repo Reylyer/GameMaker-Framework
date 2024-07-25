@@ -49,7 +49,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Support/Untitled.canvas",
+                "file": "Random Canvas/Untitled.canvas",
                 "viewState": {
                   "x": 146,
                   "y": 190,
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/Untitled.canvas",
+                "file": "Random Canvas/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/Untitled.canvas",
+                "file": "Random Canvas/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Untitled.canvas"
+                "file": "Random Canvas/Untitled.canvas"
               }
             }
           },
@@ -208,10 +208,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af0a299dfbd173cf",
+  "active": "3218d0d294ddecb3",
   "lastOpenFiles": [
+    "Random Canvas",
     "Untitled.md",
-    "Support/Untitled.canvas",
+    "Random Canvas/Untitled.canvas",
     "Pasted image 20240719204240.png",
     "Pasted image 20240718120908.png",
     "Support/Shariyl/Core UI/List Menu.md",
@@ -241,7 +242,7 @@
     "_Templates/Function.md",
     "_Templates/Datetime.md",
     "_Templates/Atom.md",
-    "Untitled.canvas",
+    "Random Canvas/Untitled.canvas",
     "a.md",
     "Support/Shariyl/Dependency Graph.canvas",
     "out/plantuml/training_menu/asd.png",
