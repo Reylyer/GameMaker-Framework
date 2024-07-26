@@ -47,14 +47,11 @@
             "id": "af0a299dfbd173cf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Random Canvas/Untitled.canvas",
-                "viewState": {
-                  "x": 146,
-                  "y": 190,
-                  "zoom": 0
-                }
+                "file": "Support/Shariyl/Core UI/Window Tabs.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -137,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Canvas/Untitled.canvas",
+                "file": "Support/Shariyl/Core UI/Window Tabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random Canvas/Untitled.canvas",
+                "file": "Support/Shariyl/Core UI/Window Tabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Canvas/Untitled.canvas"
+                "file": "Support/Shariyl/Core UI/Window Tabs.md"
               }
             }
           },
@@ -208,11 +205,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3218d0d294ddecb3",
+  "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
+    "Pasted image 20240726111735.png",
+    "Random Canvas/Untitled.canvas",
+    "Support/Shariyl/Core UI/Window Tabs.md",
     "Random Canvas",
     "Untitled.md",
-    "Random Canvas/Untitled.canvas",
     "Pasted image 20240719204240.png",
     "Pasted image 20240718120908.png",
     "Support/Shariyl/Core UI/List Menu.md",
@@ -242,8 +241,6 @@
     "_Templates/Function.md",
     "_Templates/Datetime.md",
     "_Templates/Atom.md",
-    "Random Canvas/Untitled.canvas",
-    "a.md",
     "Support/Shariyl/Dependency Graph.canvas",
     "out/plantuml/training_menu/asd.png",
     "out/plantuml/training_menu/sample.png",
@@ -254,7 +251,6 @@
     "plantuml",
     "Garuda Emblem/Objects/systems/global",
     "Garuda Emblem/Objects/systems/ingame",
-    "Garuda Emblem/Objects/systems",
     "Dependency Graph.canvas",
     "Perjuangan/Attachments/Pasted image 20240418235136.png",
     "Perjuangan/Attachments/Pasted image 20240419125127.png",
