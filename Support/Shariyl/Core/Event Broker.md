@@ -26,7 +26,9 @@ Alur pada umumnya dapat dilihat sebagai berikut
 
 ![[Event Broker.png]]
 
-*Pada umumnya*, event emitter akan 
+*Pada umumnya*, event emitter akan mendaftarakan eventnya terlebih dahulu. Ada kalanya event subscriber akan meregister callback terlebih dahulu sebelum emitter mendaftarkan eventnya. Pada kejadian tersebut, event akan dibuat sekaligus mendaftarkan callbacknya. Ketika emitter akan mendaftarkan eventnya, broker akan memberikan eventnya tanpa membuat baru.
+
+
 
 # TODO
 - [ ] 

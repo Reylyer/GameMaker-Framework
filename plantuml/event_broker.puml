@@ -1,6 +1,6 @@
-@startuml Event Broker
+@startuml Event Broker - Emittable
 
-title Event Broker
+title Event Broker (Emittable)
 
 !theme sketchy-outline
 
@@ -25,5 +25,11 @@ EventBroker -> EventBroker: Broadcast Event
 EventBroker -> EventSubscriber: Call function
 
 deactivate EventEmitter
+
+@enduml
+
+@startuml Event Broker - Step
+!theme sketchy-outline
+
 
 @enduml
