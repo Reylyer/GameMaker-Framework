@@ -17,7 +17,8 @@ You may also want to see
 # About
 List menu merupakan object UI yang menyimpan list satu dimensi. [[List Menu|obj_core_ui_list_menu]] di desain untuk menghandle item yang disusun secara tumpukan/vertikal.
 
-![[Pasted image 20240719204240.png]]
+Secara umum List Menu disusun seperti ini
+![[List Menu.png]]
 
 # TODO
 - [ ] Nulis dokumentasi
@@ -69,3 +70,6 @@ generic_ui_text(_c1, [_light_attack_sprite,]);
 Event ini dilakukan untuk mempopulate list. 
 ## Clean Up
 VERY IMPORTANT EVENT! Di event ini akan melakukan cascading destroy. Secara umum List menu akan memanggil destroy kepada tiap object yang berada di `item_list`. Tiap [[List Item]] akan menghandle ketergantungannya juga. Oleh karena itu, jika melakukan inheritance terhadap [[List Menu|Object ini]] tolong hati hati, karena hanya dengan melakukan spam instantiate destroy intantiate destroy akan membuat memory leak yang parah.
+
+## [[Event Broker|Custom Events]]
+

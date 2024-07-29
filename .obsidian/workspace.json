@@ -47,14 +47,11 @@
             "id": "af0a299dfbd173cf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Random Canvas/List Menu.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Support/Shariyl/Core/Event Broker.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -121,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 814.5
   },
   "right": {
     "id": "451e3e34dfabc95c",
@@ -137,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Canvas/List Menu.canvas",
+                "file": "Support/Shariyl/Core/Event Broker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random Canvas/List Menu.canvas",
+                "file": "Support/Shariyl/Core/Event Broker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Canvas/List Menu.canvas"
+                "file": "Support/Shariyl/Core/Event Broker.md"
               }
             }
           },
@@ -211,9 +208,13 @@
   "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
     "Support/Shariyl/Core UI/Lists/List Menu.md",
+    "Support/Shariyl/Core/Event Broker.md",
+    "Support/Shariyl/Core/Poll and Emit.canvas",
     "Random Canvas/List Menu.canvas",
-    "Support/Shariyl/Core UI/Primitives/Frame With Control Stack.md",
     "Random Canvas/Frame With Control Stack Explanation.canvas",
+    "Attachments/List Menu.png",
+    "Random Canvas/Untitled.canvas",
+    "Support/Shariyl/Core UI/Primitives/Frame With Control Stack.md",
     "Support/Shariyl/Core UI/Lists/List Item.md",
     "Attachments/Frame With Control Stack Explanation.png",
     "Attachments",
@@ -228,7 +229,6 @@
     "Support/Shariyl/Core UI/Lists/List Menu 2D.md",
     "Support/Shariyl/Core UI/Window Tabs.md",
     "Pasted image 20240726111735.png",
-    "Random Canvas/Untitled.canvas",
     "Random Canvas",
     "Untitled.md",
     "Pasted image 20240719204240.png",
@@ -238,9 +238,7 @@
     "Camera Analysis.png",
     "Support/Shariyl/Core/Untitled.md",
     "index.md",
-    "Support/Shariyl/Core/Poll and Emit.canvas",
     "Support/Shariyl/Core/Events",
-    "Support/Shariyl/Core/Event Poll and Emit.md",
     "Support/Shariyl/Data Structures/List.md",
     "2024-07-04.md",
     "Support/Shariyl/Core UI/_Core UI.md",
@@ -260,7 +258,6 @@
     "Dependency Graph.canvas",
     "Perjuangan/Attachments/Pasted image 20240418235136.png",
     "Perjuangan/Attachments/Pasted image 20240419125127.png",
-    "Perjuangan/Attachments/Pasted image 20240419041001.png",
     "Untitled/Untitled.canvas"
   ]
 }

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"5f4b287595919c2f","type":"group","x":-220,"y":-340,"width":580,"height":420,"color":"5","label":"MAIN_CONTENT_SURFACE"},
+		{"id":"972991b42d8580c6","type":"group","x":-400,"y":-340,"width":140,"height":420,"color":"5","label":"SCROLLBAR"},
+		{"id":"39d5744c357b9095","type":"group","x":-220,"y":-320,"width":580,"height":80,"color":"4","label":"Item"},
+		{"id":"63de7f5933920c56","type":"group","x":-220,"y":-220,"width":580,"height":80,"color":"4","label":"Item"},
+		{"id":"36672de7aca11b8a","type":"group","x":-220,"y":-120,"width":580,"height":80,"color":"4","label":"Item"},
+		{"id":"ffd94beb922c02fa","type":"group","x":-220,"y":-20,"width":580,"height":80,"color":"4","label":"Item"},
+		{"id":"82f53ff734c086ac","type":"text","text":"","x":-400,"y":-321,"width":139,"height":60,"color":"#000000"}
+	],
+	"edges":[]
+}
