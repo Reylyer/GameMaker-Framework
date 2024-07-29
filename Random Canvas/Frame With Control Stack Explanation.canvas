@@ -2,20 +2,26 @@
 	"nodes":[
 		{"id":"dfa1321e0b6cd7d8","type":"group","x":80,"y":-260,"width":720,"height":400,"label":"State Setelah memilih"},
 		{"id":"ab78edd682c655a6","type":"group","x":-500,"y":-260,"width":400,"height":400,"label":"State Awal"},
+		{"id":"dc6ec6f8688cc010","type":"group","x":-500,"y":300,"width":400,"height":400,"label":"State Akhir"},
 		{"id":"8c87aa917e59a42d","type":"text","text":"# List Utama","x":-460,"y":-200,"width":250,"height":240,"color":"6"},
 		{"id":"c4610fae130a0374","type":"text","text":"","x":-420,"y":-140,"width":250,"height":60},
 		{"id":"c3603304978c5fc7","type":"text","text":"","x":-420,"y":-60,"width":250,"height":60},
 		{"id":"c6ff86cf698008fa","type":"text","text":"# List Utama","x":140,"y":-200,"width":250,"height":240},
 		{"id":"a47fa640b26a9886","type":"text","text":"","x":180,"y":-140,"width":250,"height":60},
 		{"id":"7a80e5e2bccbc093","type":"text","text":"","x":180,"y":-60,"width":250,"height":60},
+		{"id":"5ce506c549b3fc49","type":"text","text":"Kondisi awal hanya ada list utama","x":-500,"y":160,"width":400,"height":60,"color":"4"},
 		{"id":"0c6d84ce726d0f55","type":"text","text":"# List Sekunder","x":460,"y":-200,"width":260,"height":240,"color":"6"},
 		{"id":"506319efceffa9c9","type":"text","text":"","x":500,"y":-140,"width":250,"height":60},
 		{"id":"dfd6aac5fe418ece","type":"text","text":"","x":500,"y":-60,"width":250,"height":60},
-		{"id":"f9c6b3366d58dbe0","x":140,"y":160,"width":580,"height":100,"color":"4","type":"text","text":"Ketika user memilih item pertama, sistem akan membuat list baru. Pada kondisi ini, List Utama tidak dapat menerima input dari user karena semua input yang masuk akan dibaca oleh List Sekunder"},
-		{"id":"5ce506c549b3fc49","x":-500,"y":160,"width":400,"height":60,"color":"4","type":"text","text":"Kondisi awal hanya ada list utama"},
-		{"id":"5baf0021c50b7605","x":-260,"y":300,"width":500,"height":140,"type":"text","text":"Legenda\n- Ungu: Aktif\n- Hijau: Caption\n- Abu-abu: non aktif"}
+		{"id":"f9c6b3366d58dbe0","type":"text","text":"Ketika user memilih item pertama, sistem akan membuat list baru. Pada kondisi ini, list ytama tidak dapat menerima input dari user karena semua input yang masuk akan dibaca oleh list sekunder","x":140,"y":160,"width":580,"height":100,"color":"4"},
+		{"id":"5baf0021c50b7605","type":"text","text":"Legenda\n- Ungu: Aktif\n- Hijau: Caption\n- Abu-abu: non aktif","x":-500,"y":-460,"width":500,"height":140},
+		{"id":"c937ef0d0233870d","type":"text","text":"# List Utama","x":-460,"y":360,"width":250,"height":240,"color":"6"},
+		{"id":"cc2db2a015a3ae19","type":"text","text":"","x":-420,"y":420,"width":250,"height":60},
+		{"id":"5640663fecda7141","type":"text","text":"","x":-420,"y":500,"width":250,"height":60},
+		{"id":"7de2c08646bcb10f","type":"text","text":"Kondisi akhir list utama mendapatkan kontrol kembali dari list sekunder","x":-500,"y":720,"width":400,"height":80,"color":"4"}
 	],
 	"edges":[
-		{"id":"c8d08b31c2fc8b0e","fromNode":"c4610fae130a0374","fromSide":"right","toNode":"dfa1321e0b6cd7d8","toSide":"left","color":"1","label":"Pilih Item Pertama"}
+		{"id":"c8d08b31c2fc8b0e","fromNode":"c4610fae130a0374","fromSide":"right","toNode":"dfa1321e0b6cd7d8","toSide":"left","color":"1","label":"Pilih Item Pertama"},
+		{"id":"c9f67950ab2c16ce","fromNode":"dfa1321e0b6cd7d8","fromSide":"left","toNode":"dc6ec6f8688cc010","toSide":"right","color":"1","label":"Menekan Back"}
 	]
 }

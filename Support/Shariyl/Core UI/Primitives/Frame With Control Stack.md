@@ -20,8 +20,8 @@ Menu A sekarang tidak memiliki control dan menu B yang memiliki control.
 
 Menu B ditutup, sekarang menu A yang memiliki control kembali.
 
-# TODO
-- [x] Dokumentasi
+Contoh dengan canvas:
+![[Frame With Control Stack Explanation.png]]
 
 # Attributes
 | Name            | Type     | Description                        |

@@ -11,6 +11,9 @@ aliases:
   - List Menu
   - obj_core_ui_list_menu
 ---
+You may also want to see
+- [[List Menu 2D]]
+- [[Window Tabs]]
 # About
 List menu merupakan object UI yang menyimpan list satu dimensi. [[List Menu|obj_core_ui_list_menu]] di desain untuk menghandle item yang disusun secara tumpukan/vertikal. Secara default, 
 
