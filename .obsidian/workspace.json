@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 814.5
+    "width": 650.5
   },
   "right": {
     "id": "451e3e34dfabc95c",
@@ -207,9 +207,16 @@
   },
   "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
-    "Support/Shariyl/Core UI/Lists/List Menu.md",
+    "Support/Shariyl/Core/System Alarm.md",
+    "Support/Shariyl/Core UI/_Contracts/Macros.md",
+    "Support/Shariyl/Core/_Contracts/HasTrigger.md",
+    "Support/Shariyl/Core/Reference.md",
+    "Support/Shariyl/Core/_Contracts/HasTransform.md",
     "Support/Shariyl/Core/Event Broker.md",
-    "Support/Shariyl/Core/Poll and Emit.canvas",
+    "Support/Shariyl/Core/_Contracts",
+    "Random Canvas/Poll and Emit.canvas",
+    "Attachments/Poll and Emit.png",
+    "Support/Shariyl/Core UI/Lists/List Menu.md",
     "Random Canvas/List Menu.canvas",
     "Random Canvas/Frame With Control Stack Explanation.canvas",
     "Attachments/List Menu.png",
@@ -236,28 +243,22 @@
     "Za Todos.md",
     "Support/Shariyl/Core/Camera.md",
     "Camera Analysis.png",
-    "Support/Shariyl/Core/Untitled.md",
     "index.md",
     "Support/Shariyl/Core/Events",
     "Support/Shariyl/Data Structures/List.md",
     "2024-07-04.md",
     "Support/Shariyl/Core UI/_Core UI.md",
-    "Support/Shariyl/Core/Reference.md",
     "Support/Standards/option.md",
     "Support/Shariyl/Data Structures/HashMap.md",
     "_Templates/Object.md",
-    "Support/Shariyl/Core/HasTransform.md",
-    "Support/Shariyl/Core/HasTrigger.md",
     "Support/README.md",
     "_Templates/Package.md",
     "TODOS",
     "Support/Shariyl/Dependency Graph.canvas",
     "out/plantuml/training_menu/asd.png",
     "out/plantuml/training_menu/sample.png",
-    "out/plantuml/training_menu",
     "Dependency Graph.canvas",
     "Perjuangan/Attachments/Pasted image 20240418235136.png",
-    "Perjuangan/Attachments/Pasted image 20240419125127.png",
     "Untitled/Untitled.canvas"
   ]
 }

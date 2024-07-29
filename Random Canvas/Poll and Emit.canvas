@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a8acf8d696cddec7","type":"text","text":"Event Poller / Subscriber\n","x":-520,"y":-320,"width":380,"height":360,"color":"4"},
+		{"id":"fe3319e3c47a65f1","type":"text","text":"Event Broker\n","x":80,"y":-800,"width":480,"height":400,"color":"6"},
+		{"id":"d021407210c23240","type":"text","text":"","x":805,"y":-216,"width":250,"height":60},
+		{"id":"ef8e42c3b835a323","type":"text","text":"Event Emitter / Provider / Publisher","x":805,"y":-336,"width":380,"height":360,"color":"5"},
+		{"id":"73d92892c2f04fba","x":0,"y":40,"width":640,"height":140,"type":"text","text":"## Legenda\n- Panah merah: Dipanggil berkali kali\n- Panah orange: dipanggil hanya sekali"}
+	],
+	"edges":[
+		{"id":"04deea75d568d927","fromNode":"a8acf8d696cddec7","fromSide":"top","toNode":"fe3319e3c47a65f1","toSide":"left","color":"2","label":"Register Callback"},
+		{"id":"a6badb07d3ecc91b","fromNode":"fe3319e3c47a65f1","fromSide":"bottom","toNode":"a8acf8d696cddec7","toSide":"right","color":"1","label":"Call Event"},
+		{"id":"e2a89b7dd3c59e84","fromNode":"ef8e42c3b835a323","fromSide":"top","toNode":"fe3319e3c47a65f1","toSide":"right","color":"2","label":"Register Event"},
+		{"id":"38c78476f67e3de9","fromNode":"ef8e42c3b835a323","fromSide":"left","toNode":"fe3319e3c47a65f1","toSide":"bottom","color":"1","label":"Emit event"}
+	]
+}

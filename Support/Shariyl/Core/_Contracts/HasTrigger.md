@@ -1,5 +1,5 @@
 ---
-Source Filename: obj_i_core_hierarchichal_transform
+Source Filename: 
 Dependencies: 
 Inherit: 
 tags:
@@ -7,11 +7,9 @@ tags:
 cssclasses:
   - Atom
 aliases:
-  - obj_i_core_hierarchichal_transform
 ---
-# TODO
-
 # About
+Dihapus dan digantikan oleh [[Event Broker]]
 
 ## Attributes
 
