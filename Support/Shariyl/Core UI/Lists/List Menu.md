@@ -18,6 +18,8 @@ List menu merupakan object UI yang menyimpan list satu dimensi. [[List Menu|obj_
 
 # TODO
 - [ ] Nulis dokumentasi
+- [ ] Contoh modifikasi
+- [ ] alternative lain 
 
 # Attributes
 | Name                      | Type                                 | Description                                                                                                                                                                                             |

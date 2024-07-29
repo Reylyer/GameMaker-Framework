@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Core UI/Chainable Frame.md",
+                "file": "Support/Shariyl/Core UI/Primitives/Chainable Frame.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Core UI/Text Generic.md",
+                "file": "Support/Shariyl/Core UI/Generic Text/Text Generic.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,11 +47,9 @@
             "id": "af0a299dfbd173cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Support/Shariyl/Core UI/List Menu.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Frame With Control Stack Explanation.png"
               }
             }
           },
@@ -61,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Core UI/Frame.md",
+                "file": "Support/Shariyl/Core UI/Primitives/Frame.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 351.5
   },
   "right": {
     "id": "451e3e34dfabc95c",
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/Shariyl/Core UI/List Menu.md",
+                "file": "Attachments/Frame With Control Stack Explanation.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/Shariyl/Core UI/List Menu.md",
+                "file": "Attachments/Frame With Control Stack Explanation.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Shariyl/Core UI/List Menu.md"
+                "file": "Attachments/Frame With Control Stack Explanation.png"
               }
             }
           },
@@ -207,6 +205,21 @@
   },
   "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
+    "Random Canvas/Frame With Control Stack Explanation.canvas",
+    "Support/Shariyl/Core UI/Primitives/Frame With Control Stack.md",
+    "Attachments/Frame With Control Stack Explanation.png",
+    "Attachments",
+    "New folder",
+    "Support/Shariyl/Core UI/Primitives/Point2D.md",
+    "Support/Shariyl/Core UI/Primitives/Frame.md",
+    "Support/Shariyl/Core UI/Primitives/Chainable Frame.md",
+    "Support/Shariyl/Core UI/Lists/List Item.md",
+    "Support/Shariyl/Core UI/Lists/List Menu.md",
+    "Support/Shariyl/Core UI/Decorator",
+    "Support/Shariyl/Core UI/Generic Text",
+    "Support/Shariyl/Core UI/Primitives",
+    "Support/Shariyl/Core UI/Lists",
+    "Support/Shariyl/Core UI/Lists/List Menu 2D.md",
     "Support/Shariyl/Core UI/Window Tabs.md",
     "Pasted image 20240726111735.png",
     "Random Canvas/Untitled.canvas",
@@ -214,8 +227,6 @@
     "Untitled.md",
     "Pasted image 20240719204240.png",
     "Pasted image 20240718120908.png",
-    "Support/Shariyl/Core UI/List Menu.md",
-    "Support/Shariyl/Core UI/List Menu 2D.md",
     "Za Todos.md",
     "Support/Shariyl/Core/Camera.md",
     "Camera Analysis.png",
@@ -226,7 +237,6 @@
     "Support/Shariyl/Core/Event Poll and Emit.md",
     "Support/Shariyl/Data Structures/List.md",
     "2024-07-04.md",
-    "Support/Shariyl/Core UI/Chainable Frame.md",
     "Support/Shariyl/Core UI/_Core UI.md",
     "Support/Shariyl/Core/Reference.md",
     "Support/Standards/option.md",
@@ -237,25 +247,14 @@
     "Support/README.md",
     "_Templates/Package.md",
     "TODOS",
-    "_Templates/Function param.md",
-    "_Templates/Function.md",
-    "_Templates/Datetime.md",
-    "_Templates/Atom.md",
     "Support/Shariyl/Dependency Graph.canvas",
     "out/plantuml/training_menu/asd.png",
     "out/plantuml/training_menu/sample.png",
     "out/plantuml/training_menu",
-    "out/plantuml",
-    "out",
-    "plantuml/training_menu.puml",
-    "plantuml",
-    "Garuda Emblem/Objects/systems/global",
-    "Garuda Emblem/Objects/systems/ingame",
     "Dependency Graph.canvas",
     "Perjuangan/Attachments/Pasted image 20240418235136.png",
     "Perjuangan/Attachments/Pasted image 20240419125127.png",
     "Perjuangan/Attachments/Pasted image 20240419041001.png",
-    "Perjuangan/Attachments/Pasted image 20240419035842.png",
     "Untitled/Untitled.canvas"
   ]
 }

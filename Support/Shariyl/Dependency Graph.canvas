@@ -1,18 +1,18 @@
 {
 	"nodes":[
 		{"id":"fe8cf6f9ce6462f2","type":"group","x":-1280,"y":-640,"width":4120,"height":3480,"label":"Core UI"},
-		{"id":"8b860aae13b302a0","type":"file","file":"Support/Shariyl/Core UI/Frame.md","x":-40,"y":0,"width":400,"height":400},
-		{"id":"df3ce7dadc18e8ff","type":"file","file":"Support/Shariyl/Core UI/List Item.md","x":-560,"y":640,"width":400,"height":400},
+		{"id":"8b860aae13b302a0","type":"file","file":"Support/Shariyl/Core UI/Primitives/Frame.md","x":-40,"y":0,"width":400,"height":400},
+		{"id":"df3ce7dadc18e8ff","type":"file","file":"Support/Shariyl/Core UI/Lists/List Item.md","x":-560,"y":640,"width":400,"height":400},
 		{"id":"2c4488c82fc88d97","type":"file","file":"Support/Shariyl/Core UI/_Contracts/Debuggable Hover.md","x":-40,"y":-560,"width":400,"height":400},
-		{"id":"9bc0858606a8a4d1","type":"file","file":"Support/Shariyl/Core UI/ScrollBar.md","x":-1020,"y":640,"width":400,"height":400},
+		{"id":"9bc0858606a8a4d1","type":"file","file":"Support/Shariyl/Core UI/Decorator/ScrollBar.md","x":-1020,"y":640,"width":400,"height":400},
 		{"id":"937d4eaeeaa7efa6","type":"file","file":"Support/Shariyl/Core/HasTransform.md","x":-40,"y":-1160,"width":400,"height":400},
-		{"id":"838fa7170fb49428","type":"file","file":"Support/Shariyl/Core UI/Frame With Control Stack.md","x":-40,"y":640,"width":400,"height":400},
-		{"id":"a6ef4af117c2b4ce","type":"file","file":"Support/Shariyl/Core UI/List Menu.md","x":-360,"y":1320,"width":400,"height":400},
-		{"id":"4e4350fe35989919","type":"file","file":"Support/Shariyl/Core UI/List Menu 2D.md","x":-1160,"y":1320,"width":400,"height":400},
-		{"id":"f8dbaee17584a816","type":"file","file":"Support/Shariyl/Core UI/Chainable Frame.md","x":560,"y":640,"width":400,"height":400},
+		{"id":"838fa7170fb49428","type":"file","file":"Support/Shariyl/Core UI/Primitives/Frame With Control Stack.md","x":-40,"y":640,"width":400,"height":400},
+		{"id":"a6ef4af117c2b4ce","type":"file","file":"Support/Shariyl/Core UI/Lists/List Menu.md","x":-360,"y":1320,"width":400,"height":400},
+		{"id":"4e4350fe35989919","type":"file","file":"Support/Shariyl/Core UI/Lists/List Menu 2D.md","x":-1160,"y":1320,"width":400,"height":400},
+		{"id":"f8dbaee17584a816","type":"file","file":"Support/Shariyl/Core UI/Primitives/Chainable Frame.md","x":560,"y":640,"width":400,"height":400},
 		{"id":"aa90d87e973031c0","type":"file","file":"Support/Shariyl/Core UI/Description Box.md","x":1520,"y":640,"width":400,"height":400},
-		{"id":"8bdcab6fcc868eee","type":"file","file":"Support/Shariyl/Core UI/Text Generic.md","x":560,"y":1320,"width":400,"height":400},
-		{"id":"eae019177830ccfe","x":560,"y":1920,"width":400,"height":400,"type":"file","file":"Support/Shariyl/Core UI/Text Generic Element.md"}
+		{"id":"8bdcab6fcc868eee","type":"file","file":"Support/Shariyl/Core UI/Generic Text/Text Generic.md","x":560,"y":1320,"width":400,"height":400},
+		{"id":"eae019177830ccfe","x":560,"y":1920,"width":400,"height":400,"type":"file","file":"Support/Shariyl/Core UI/Generic Text/Text Generic Element.md"}
 	],
 	"edges":[
 		{"id":"b7ba49db16d76a97","fromNode":"aa90d87e973031c0","fromSide":"top","toNode":"8b860aae13b302a0","toSide":"bottom","color":"5"},

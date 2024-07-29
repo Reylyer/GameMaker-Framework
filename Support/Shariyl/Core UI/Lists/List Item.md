@@ -1,5 +1,5 @@
 ---
-Source Filename: obj_core_ui_list_item
+Source Filename: obj_core_ui_list_item_par
 Dependencies: 
 Inherit: 
 tags:
@@ -10,7 +10,7 @@ aliases:
   - obj_core_ui_list_item
 ---
 # About
-A frame that contains a text for title and text for subtitle. It is used by [[List Menu|List View]] by default.
+A frame that contains a text for title and text for subtitle. It is used by [[List Menu|obj_core_ui_list_menu]] as the element.
 # TODO
 - [x] Clear suggestion incosistent naming
 - [ ] JSDoc
