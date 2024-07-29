@@ -1,0 +1,29 @@
+@startuml Event Broker
+
+title Event Broker
+
+!theme sketchy-outline
+
+hide footbox
+
+control EventEmitter as "__:Event Emitter__"
+control EventBroker as "__:Event Broker__"
+control EventSubscriber as "__:Event Subscriber__"
+
+activate EventEmitter
+activate EventBroker
+activate EventSubscriber
+
+EventEmitter -> EventBroker: Register Event
+
+EventSubscriber -> EventBroker: Register Callback
+
+EventEmitter -> EventBroker: Emit Event
+
+activate EventBroker
+EventBroker -> EventBroker: Broadcast Event
+EventBroker -> EventSubscriber: Call function
+
+deactivate EventEmitter
+
+@enduml

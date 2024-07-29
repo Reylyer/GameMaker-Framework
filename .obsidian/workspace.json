@@ -207,6 +207,11 @@
   },
   "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
+    "out/plantuml/event_broker/Event Broker.png",
+    "out/plantuml/event_broker",
+    "out/plantuml/training_menu/Spawn In General.png",
+    "out/plantuml/training_menu/asd.png",
+    "plantuml/event_broker.puml",
     "Support/Shariyl/Core/System Alarm.md",
     "Support/Shariyl/Core UI/_Contracts/Macros.md",
     "Support/Shariyl/Core/_Contracts/HasTrigger.md",
@@ -244,7 +249,6 @@
     "Support/Shariyl/Core/Camera.md",
     "Camera Analysis.png",
     "index.md",
-    "Support/Shariyl/Core/Events",
     "Support/Shariyl/Data Structures/List.md",
     "2024-07-04.md",
     "Support/Shariyl/Core UI/_Core UI.md",
@@ -252,13 +256,9 @@
     "Support/Shariyl/Data Structures/HashMap.md",
     "_Templates/Object.md",
     "Support/README.md",
-    "_Templates/Package.md",
-    "TODOS",
     "Support/Shariyl/Dependency Graph.canvas",
-    "out/plantuml/training_menu/asd.png",
     "out/plantuml/training_menu/sample.png",
     "Dependency Graph.canvas",
-    "Perjuangan/Attachments/Pasted image 20240418235136.png",
     "Untitled/Untitled.canvas"
   ]
 }

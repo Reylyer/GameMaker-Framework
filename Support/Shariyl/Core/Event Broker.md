@@ -9,18 +9,24 @@ cssclasses:
 aliases:
   - Custom Events
 ---
+\* sedikit glossarium
+1. Event: Sebuah peristiwa, contoh: `if (keyboard_check(ord("A")) { // peristiwa }
+2. Emit: Sebuah aksi untuk mengumumkan suatu event sedang/telah terjadi
+3. Callback: Fungsi yang akan dipanggil ketika suatu event terjadi
+4. Event Publisher / Provider / Emitter: Sesuatu yang akan meng-emit event | \*ada alasan kenapa menggunakan *sesuatu* bukan *objek*
+5. Event Poller / Subscriber: Sesuatu yang mendaftarkan fungsi yang akan dipanggil
+6. Event Broker: Objek yang menghandle pembuatan event, pendaftaran callback, pemanggilan callback, hingga cleanup event
 # About
-Event broker merupakan core system dari modul Support/Shariyl. Event broker menyediakan cara untuk para developer agar dapat menggunakan event-based style code. System ini mirip dengan pola [pub/sub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) pada umumnya yang di implementasikan pada redis, gcp, dan bahkan beberapa framework umum yang menggunakan pattern asyncronous.
+Event broker merupakan core system dari modul Support/Shariyl. Event broker menyediakan cara untuk para developer agar dapat menggunakan event-based style code. System ini mirip dengan pola [pub/sub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) pada umumnya yang di implementasikan pada redis, gcp, dan beberapa framework umum yang menggunakan pattern asyncronous event based.
 
-Secara umum, event broker cara kerja event broker dapat dilihah seperti ini
+Secara umum, event broker memiliki interaksi antar komponennya sebagai berikut
 
 ![[Poll and Emit.png]]
-\* sedikit glossarium
-1. Emit: Sebuah aksi untuk mengumumkan suatu event sedang terjadi
-2. Publisher = Provider = Event Emitter: Sesuatu yang akan meng-emit event | \*ada alasan kenapa menggunakan sesuatu tapi bukan objek
-3. 
+Alur pada umumnya dapat dilihat sebagai berikut
 
-4. Pertama publisher
+![[Event Broker.png]]
+
+*Pada umumnya*, event emitter akan 
 
 # TODO
 - [ ] 
