@@ -59,19 +59,15 @@ ubah_kuadrat(glob_c, c); // global c adalah 1600
 
 ```
 
-Terlihat lebih simpel (?) tapi kenapa tipe datanya sebuah function bukan Reference? Ini karena keterbatasan dari GML yang tidak menyediakan style functor atau \_\_callable\_\_ yang membuat reference ini hasil antara se elegan mungkin dan seminimal overhead mungkin. Jika dilihat implementasinya, reference merupakan sebuah fungsi wrapper untuk membuat binding reference ke variabel yang diinginkan.
+Terlihat lebih simpel (?) tapi kenapa tipe datanya sebuah function bukan Reference? Ini karena keterbatasan dari GML yang tidak menyediakan style `functor` atau `__callable__` yang membuat reference ini hasil antara seelegan mungkin dan seminimal overhead mungkin. Jika dilihat implementasinya, reference merupakan sebuah fungsi wrapper untuk membuat binding reference ke variabel yang diinginkan.
 
 ```js
 /// @param {Id.Instance|Id.DsMap|Struct} _target
 /// @param {String} _symbol
 function reference(_target, _symbol) {
-
-	/// @type {Asset.GMObject.obj_core_reference_manager} 
-	static _reference_manager = instance_create_depth(0, 0, 0, obj_core_reference_manager);
-	
 	var _ref = new InternalReference(_target, _symbol);
 
-	_reference_manager.register(_target, _ref);
+	obj_core_reference_manager.register(_target, _ref);
 	
     return _ref.ref;
 }
@@ -106,7 +102,19 @@ function InternalReference (_target, _symbol) constructor {
 }
 ```
 
-Untuk saat ini yang dapat dilakukan reference adalah struktur data map, structs, dan instance object.
+Untuk saat ini yang dapat dilakukan reference adalah struktur data map, structs, dan instance object. Namun ada kasus spesial untuk menggunakan reference untuk function. 
+
+Untuk reference function use case utamanya adalah ketika ingin melakukan evaluasi suatu fungsi tapi 
+
+```js
+function reference_function(_id, _func, _args=[]) {
+	var _ref = new FunctionReference(_func, _args);
+	
+	obj_core_reference_manager.register_function(_id, _ref);
+	
+	return _ref.ref;
+}
+```
 
 # ToDo
 - [ ] Enforce Clean up atau implementasi Garbage Collection assistant 

@@ -40,6 +40,7 @@ if (listen_keypress()) {
 	event_example.emit();
 }
 ```
+read 
 
 `obj_subscribe_emit_event`:`create`
 ```js
@@ -47,12 +48,15 @@ function on_event_example_emitted() {
 	show_debug_message("Terpanggil");
 }
 
+// -----------------------------------------------------------------
 
-event_broker.subscribe_event_emittable("EVENT_EMIT_EXAMPLE");
+event_broker.subscribe_event_emittable(self.id, "EVENT_EMIT_EXAMPLE", on_event_example_emitted);
 
 // or
 
-obj_will_emit_event.event_example.subscribe
+obj_will_emit_event.event_example.subscribe(self.id, on_event_example_emitted);
+
+// either will do and the function will called
 ```
 
 ---
