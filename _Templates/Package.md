@@ -19,4 +19,4 @@ cssclasses:
 
 ## Globals
 
-## Enum
+## Enums

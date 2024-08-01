@@ -26,12 +26,37 @@ Alur pada umumnya dapat dilihat sebagai berikut
 
 ![[Event Broker.png]]
 
-*Pada umumnya*, event emitter akan mendaftarakan eventnya terlebih dahulu. Ada kalanya event subscriber akan meregister callback terlebih dahulu sebelum emitter mendaftarkan eventnya. Pada kejadian tersebut, event akan dibuat sekaligus mendaftarkan callbacknya. Ketika emitter akan mendaftarkan eventnya, broker akan memberikan eventnya tanpa membuat baru.
+
+\
+Example real usecase:
+`obj_will_emit_event`:`create`
+```js
+event_example = event_broker.register_event_emittable("EVENT_EMIT_EXAMPLE");
+listen_keypress = reference_function(self.id, keyboard_check, [vk_enter]);
+```
+`obj_will_emit_event`:`step`
+```js
+if (listen_keypress()) {
+	event_example.emit();
+}
+```
+
+`obj_subscribe_emit_event`:`create`
+```js
+function on_event_example_emitted() {
+	show_debug_message("Terpanggil");
+}
 
 
+event_broker.subscribe_event_emittable("EVENT_EMIT_EXAMPLE");
 
-# TODO
-- [ ] 
+// or
+
+obj_will_emit_event.event_example.subscribe
+```
+
+---
+*Pada umumnya*, event emitter akan mendaftarakan eventnya terlebih dahulu. Ada kalanya event subscriber akan meregister callback terlebih dahulu sebelum emitter mendaftarkan eventnya. Pada kejadian tersebut, event akan dibuat sekaligus mendaftarkan callbacknya. Ketika emitter akan mendaftarkan eventnya, broker akan memberikan eventnya tanpa membuat yang baru.
 # Attributes
 
 # Methods

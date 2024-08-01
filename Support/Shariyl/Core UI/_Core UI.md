@@ -1,7 +1,6 @@
 ---
 Source Filename: 
 Dependencies: 
-Inherit: 
 tags:
   - TODO
 cssclasses:
