@@ -40,7 +40,7 @@ if (listen_keypress()) {
 	event_example.emit();
 }
 ```
-read 
+read [[Reference#Function Reference|Function Reference]] for learn about `reference_function`
 
 `obj_subscribe_emit_event`:`create`
 ```js

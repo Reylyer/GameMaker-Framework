@@ -82,6 +82,8 @@ function reference(_target, _symbol) {
 ```
 
 Untuk saat ini yang dapat dilakukan reference adalah struktur data map, structs, dan instance object. Namun ada kasus spesial untuk menggunakan reference untuk function. 
+## Function Reference
+Function reference merupakan reference spesial yang menggunakan function sebagai sumber dari reference.
 
 Untuk reference function use case utamanya adalah ketika use case yang normal (structs) tapi dilakukan dengan evaluasi fungsi. Use case untuk function reference ini cukup sering ditemukan di dalam [[_Core UI|Core UI]] sebagai generalisasi untuk merubah parent tanpa melakukan perubahan secara langsung. Berikut contoh penggunaan dalam [[List Menu]] agar control naik dan turun bisa diubah tanpa mengubah step event
 
@@ -98,14 +100,13 @@ if (active_index > 0 && listen_event_scroll_up()) {
 	event_scroll_up.emit();
 }
 
-// For moving down
 if (active_index < ds_list_size(item_list) - 1 && listen_event_scroll_down()) {
 	...
 	event_scroll_down.emit();
 }
 ```
 
-jika dilihat, `listen_event_scroll_xxx` berada di dalam parent event (dilihat dari child saat melakukan inherit). Kita tidak dapat merubah ekspresi boolean tersebut secara langsung jika misal menggunakan pengecekan biasa, contoh `keyboard_check(vk_up)`. Maka dari itu `reference_function` datang membantu untuk menyelesaikan masalah ini. Kita dapat menginherit parent dan misal mengganti event dengan event lain seperti penggunaan pada `obj_list_menu_training_mod` pada Garuda Emblem
+jika dilihat, untuk mengecek apakah list perlu bergerak, kita perlu mengevaluasi `listen_event_scroll_xxx()` yang berada di dalam step parent event (dilihat dari child saat melakukan inherit). Kita tidak dapat merubah ekspresi boolean tersebut secara langsung jika misal menggunakan pengecekan biasa, contoh `keyboard_check(vk_up)`. Penambahan variable key tidak cukup karena jika kita menggunakan fungsi yang lebih kompleks, misal keyboard dan gamepad maka kita memerlukan cara lain untuk menghandle itu. Maka dari itu `reference_function` datang membantu untuk menyelesaikan masalah ini. Kita dapat menginherit parent dan misal mengganti event dengan event lain seperti penggunaan pada `obj_list_menu_training_mod` pada Garuda Emblem
 ```js
 listen_event_scroll_up   = obj_training_controller.event_input_menu_select_up.subscribe_as_reference();
 listen_event_scroll_down = obj_training_controller.event_input_menu_select_down.subscribe_as_reference();
