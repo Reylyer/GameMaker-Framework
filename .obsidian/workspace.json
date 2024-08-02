@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Core UI/Window Tabs.md",
+                "file": "Garuda Emblem/Objects/systems/room_based/obj_traingin_controller.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/Shariyl/Core UI/Window Tabs.md",
+                "file": "Garuda Emblem/Objects/systems/room_based/obj_traingin_controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/Shariyl/Core UI/Window Tabs.md",
+                "file": "Garuda Emblem/Objects/systems/room_based/obj_traingin_controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Shariyl/Core UI/Window Tabs.md"
+                "file": "Garuda Emblem/Objects/systems/room_based/obj_traingin_controller.md"
               }
             }
           },
@@ -207,6 +207,18 @@
   },
   "active": "3218d0d294ddecb3",
   "lastOpenFiles": [
+    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_spawner.md",
+    "Garuda Emblem/Objects/systems/room_based/obj_traingin_controller.md",
+    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_window_training.md",
+    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_mod_controller.md",
+    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_item_spawnable.md",
+    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training_spawn_generic.md",
+    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_item_training.md",
+    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training_spawn.md",
+    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_item_mod.md",
+    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training.md",
+    "Random Canvas/training.canvas",
+    "Support/Shariyl/Core UI/Window Tabs.md",
     "Garuda Emblem/Objects/systems/room_based/basecamp/Untitled",
     "Garuda Emblem/Objects/systems/room_based/basecamp",
     "Garuda Emblem/Objects/systems/room_based",
@@ -240,23 +252,12 @@
     "New folder",
     "Support/Shariyl/Core UI/Primitives/Point2D.md",
     "Support/Shariyl/Core UI/Primitives/Frame.md",
-    "Support/Shariyl/Core UI/Primitives/Chainable Frame.md",
     "Support/Shariyl/Core UI/Decorator",
     "Support/Shariyl/Core UI/Generic Text",
-    "Support/Shariyl/Core UI/Primitives",
-    "Support/Shariyl/Core UI/Lists/List Menu 2D.md",
-    "Support/Shariyl/Core UI/Window Tabs.md",
     "Pasted image 20240726111735.png",
-    "Untitled.md",
     "Pasted image 20240719204240.png",
     "Pasted image 20240718120908.png",
-    "Za Todos.md",
     "Camera Analysis.png",
-    "index.md",
-    "Support/Shariyl/Data Structures/List.md",
-    "2024-07-04.md",
-    "Support/Standards/option.md",
-    "Support/Shariyl/Data Structures/HashMap.md",
     "Support/Shariyl/Dependency Graph.canvas",
     "Dependency Graph.canvas",
     "Untitled/Untitled.canvas"
