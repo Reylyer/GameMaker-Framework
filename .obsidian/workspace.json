@@ -47,14 +47,9 @@
             "id": "af0a299dfbd173cf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Random Canvas/training.canvas",
-                "viewState": {
-                  "x": 392.8484625933105,
-                  "y": 752.2938007867627,
-                  "zoom": -1.3333333333333328
-                }
+                "file": "Attachments/training.png"
               }
             }
           },
@@ -137,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Canvas/training.canvas",
+                "file": "Attachments/training.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random Canvas/training.canvas",
+                "file": "Attachments/training.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Canvas/training.canvas"
+                "file": "Attachments/training.png"
               }
             }
           },
@@ -210,8 +205,11 @@
   },
   "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
-    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training.md",
+    "Attachments/Frame With Control Stack Explanation.png",
+    "Attachments/List Menu.png",
+    "Attachments/training.png",
     "Random Canvas/training.canvas",
+    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training.md",
     "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training_mod.md",
     "Garuda Emblem/Objects/systems/room_based/basecamp/obj_training_controller.md",
     "Garuda Emblem/Objects/systems/room_based/basecamp/obj_spawner.md",
@@ -247,11 +245,9 @@
     "Support/Shariyl/Core UI/Lists/List Menu.md",
     "Random Canvas/List Menu.canvas",
     "Random Canvas/Frame With Control Stack Explanation.canvas",
-    "Attachments/List Menu.png",
     "Random Canvas/Untitled.canvas",
     "Support/Shariyl/Core UI/Primitives/Frame With Control Stack.md",
     "Support/Shariyl/Core UI/Lists/List Item.md",
-    "Attachments/Frame With Control Stack Explanation.png",
     "Attachments",
     "New folder",
     "Support/Shariyl/Core UI/Decorator",
@@ -259,7 +255,6 @@
     "Pasted image 20240726111735.png",
     "Pasted image 20240719204240.png",
     "Pasted image 20240718120908.png",
-    "Camera Analysis.png",
     "Support/Shariyl/Dependency Graph.canvas",
     "Dependency Graph.canvas",
     "Untitled/Untitled.canvas"
