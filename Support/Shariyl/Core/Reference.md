@@ -93,21 +93,27 @@ listen_event_scroll_down = reference_function(self.id, keyboard_check, [vk_down]
 ```
 `obj_core_ui_list_menu`:`step`
 ```js
-	if (active_index > 0 && listen_event_scroll_up()) {
-		...
-		event_scroll_up.emit();
-	}
-	
-	// For moving down
-	if (active_index < ds_list_size(item_list) - 1 && listen_event_scroll_down()) {
-		...
-		event_scroll_down.emit();
-	}
+if (active_index > 0 && listen_event_scroll_up()) {
+	...
+	event_scroll_up.emit();
+}
+
+// For moving down
+if (active_index < ds_list_size(item_list) - 1 && listen_event_scroll_down()) {
+	...
+	event_scroll_down.emit();
+}
 ```
 
-jika dilihat 
+jika dilihat, `listen_event_scroll_xxx` berada di dalam parent event (dilihat dari child saat melakukan inherit). Kita tidak dapat merubah ekspresi boolean tersebut secara langsung jika misal menggunakan pengecekan biasa, contoh `keyboard_check(vk_up)`. Maka dari itu `reference_function` datang membantu untuk menyelesaikan masalah ini. Kita dapat menginherit parent dan misal mengganti event dengan event lain seperti penggunaan pada `obj_list_menu_training_mod` pada Garuda Emblem
+```js
+listen_event_scroll_up   = obj_training_controller.event_input_menu_select_up.subscribe_as_reference();
+listen_event_scroll_down = obj_training_controller.event_input_menu_select_down.subscribe_as_reference();
+```
 
-Mirip dengan reference biasa, reference function dipisah sebagai fungsi yang berbeda bernama `reference_function` 
+`obj_list_menu_training_mod` menggunakan konsep lain dari [[Event Broker]] yang menggunakan event sebagai sumber reference function dimana terdapat pengecekan input untuk sistem list dan objek ini menggunakan event tersebut untuk menggerakan list `obj_list_menu_training_mod` 
+
+Mirip dengan reference biasa, `reference_function` merupakan wrapper dari internal struct `FunctionReference`. `reference_function` dipisah sebagai fungsi yang berbeda bernama `reference_function` 
 
 ```js
 function reference_function(_id, _func, _args=[]) {
