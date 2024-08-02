@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Core/Reference.md",
+                "file": "Support/Shariyl/Core UI/Window Tabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/Shariyl/Core/Reference.md",
+                "file": "Support/Shariyl/Core UI/Window Tabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/Shariyl/Core/Reference.md",
+                "file": "Support/Shariyl/Core UI/Window Tabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Shariyl/Core/Reference.md"
+                "file": "Support/Shariyl/Core UI/Window Tabs.md"
               }
             }
           },
@@ -207,8 +207,8 @@
   },
   "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
-    "Support/Shariyl/Core/Event Broker.md",
     "Support/Shariyl/Core/Reference.md",
+    "Support/Shariyl/Core/Event Broker.md",
     "Support/Shariyl/Core/Camera.md",
     "Support/Shariyl/Core/_Core.md",
     "Support/Shariyl/Core UI/_Core UI.md",
