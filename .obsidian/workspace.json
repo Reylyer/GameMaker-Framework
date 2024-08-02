@@ -47,11 +47,14 @@
             "id": "af0a299dfbd173cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Garuda Emblem/Objects/systems/room_based/obj_traingin_controller.md",
-                "mode": "source",
-                "source": false
+                "file": "Random Canvas/training.canvas",
+                "viewState": {
+                  "x": 392.8484625933105,
+                  "y": 752.2938007867627,
+                  "zoom": -1.3333333333333328
+                }
               }
             }
           },
@@ -118,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 419.5
   },
   "right": {
     "id": "451e3e34dfabc95c",
@@ -134,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garuda Emblem/Objects/systems/room_based/obj_traingin_controller.md",
+                "file": "Random Canvas/training.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garuda Emblem/Objects/systems/room_based/obj_traingin_controller.md",
+                "file": "Random Canvas/training.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garuda Emblem/Objects/systems/room_based/obj_traingin_controller.md"
+                "file": "Random Canvas/training.canvas"
               }
             }
           },
@@ -205,10 +208,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3218d0d294ddecb3",
+  "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
+    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training.md",
+    "Random Canvas/training.canvas",
+    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training_mod.md",
+    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_training_controller.md",
     "Garuda Emblem/Objects/systems/room_based/basecamp/obj_spawner.md",
-    "Garuda Emblem/Objects/systems/room_based/obj_traingin_controller.md",
     "Garuda Emblem/Objects/systems/room_based/basecamp/obj_window_training.md",
     "Garuda Emblem/Objects/systems/room_based/basecamp/obj_mod_controller.md",
     "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_item_spawnable.md",
@@ -216,8 +222,6 @@
     "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_item_training.md",
     "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training_spawn.md",
     "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_item_mod.md",
-    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training.md",
-    "Random Canvas/training.canvas",
     "Support/Shariyl/Core UI/Window Tabs.md",
     "Garuda Emblem/Objects/systems/room_based/basecamp/Untitled",
     "Garuda Emblem/Objects/systems/room_based/basecamp",
@@ -250,8 +254,6 @@
     "Attachments/Frame With Control Stack Explanation.png",
     "Attachments",
     "New folder",
-    "Support/Shariyl/Core UI/Primitives/Point2D.md",
-    "Support/Shariyl/Core UI/Primitives/Frame.md",
     "Support/Shariyl/Core UI/Decorator",
     "Support/Shariyl/Core UI/Generic Text",
     "Pasted image 20240726111735.png",

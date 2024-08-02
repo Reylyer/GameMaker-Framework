@@ -1,1 +1,23 @@
-{}
+{
+	"nodes":[
+		{"id":"972c4e5ac0a73a62","type":"file","file":"Garuda Emblem/Objects/systems/room_based/basecamp/obj_window_training.md","x":-560,"y":21,"width":1440,"height":400},
+		{"id":"b13f7e3c6721fc86","type":"file","file":"Garuda Emblem/Objects/systems/room_based/basecamp/obj_training_controller.md","x":-40,"y":-600,"width":400,"height":400},
+		{"id":"5f2c0a5bcbfffe12","type":"file","file":"Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training_mod.md","x":-560,"y":480,"width":720,"height":400},
+		{"id":"e0ba0ea1eaf03547","type":"file","file":"Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training_spawn.md","x":160,"y":480,"width":720,"height":400},
+		{"id":"f6a628fd3c874e01","type":"file","file":"Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_item_mod.md","x":-400,"y":710,"width":400,"height":400},
+		{"id":"57d11f06a34c2617","type":"file","file":"Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_item_training.md","x":320,"y":710,"width":400,"height":400},
+		{"id":"93c4105074dea829","type":"text","text":"Weapon","x":660,"y":800,"width":250,"height":60},
+		{"id":"fd1487de86e1e200","type":"text","text":"Enemy","x":660,"y":880,"width":250,"height":60},
+		{"id":"c0c23490ce8beafe","type":"text","text":"Breakable","x":660,"y":960,"width":250,"height":60},
+		{"id":"ee21f672f89dd3b5","type":"file","file":"Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training_spawn_generic.md","x":160,"y":1280,"width":720,"height":400},
+		{"id":"31b4391e945f09f3","x":320,"y":1560,"width":400,"height":400,"type":"file","file":"Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_item_spawnable.md"},
+		{"id":"56273db0a62abc50","x":320,"y":2160,"width":400,"height":400,"type":"file","file":"Garuda Emblem/Objects/systems/room_based/basecamp/obj_spawner.md"}
+	],
+	"edges":[
+		{"id":"114f680acab249c6","fromNode":"b13f7e3c6721fc86","fromSide":"bottom","toNode":"972c4e5ac0a73a62","toSide":"top"},
+		{"id":"08dc912e2e8e276e","fromNode":"57d11f06a34c2617","fromSide":"bottom","toNode":"ee21f672f89dd3b5","toSide":"top"},
+		{"id":"5050e0b7a6cf9dab","fromNode":"31b4391e945f09f3","fromSide":"bottom","toNode":"56273db0a62abc50","toSide":"top"},
+		{"id":"f7765fc2b7e7f81b","fromNode":"972c4e5ac0a73a62","fromSide":"bottom","toNode":"5f2c0a5bcbfffe12","toSide":"top"},
+		{"id":"c75f30ac7c11c02a","fromNode":"972c4e5ac0a73a62","fromSide":"bottom","toNode":"e0ba0ea1eaf03547","toSide":"top"}
+	]
+}
