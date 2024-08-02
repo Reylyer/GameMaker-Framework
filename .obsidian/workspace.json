@@ -205,8 +205,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af0a299dfbd173cf",
+  "active": "3218d0d294ddecb3",
   "lastOpenFiles": [
+    "Garuda Emblem/Objects/systems/room_based/basecamp/Untitled",
+    "Garuda Emblem/Objects/systems/room_based/basecamp",
+    "Garuda Emblem/Objects/systems/room_based",
     "Support/Shariyl/Core/Reference.md",
     "Support/Shariyl/Core/Event Broker.md",
     "Support/Shariyl/Core/Camera.md",
@@ -241,11 +244,9 @@
     "Support/Shariyl/Core UI/Decorator",
     "Support/Shariyl/Core UI/Generic Text",
     "Support/Shariyl/Core UI/Primitives",
-    "Support/Shariyl/Core UI/Lists",
     "Support/Shariyl/Core UI/Lists/List Menu 2D.md",
     "Support/Shariyl/Core UI/Window Tabs.md",
     "Pasted image 20240726111735.png",
-    "Random Canvas",
     "Untitled.md",
     "Pasted image 20240719204240.png",
     "Pasted image 20240718120908.png",
@@ -256,7 +257,6 @@
     "2024-07-04.md",
     "Support/Standards/option.md",
     "Support/Shariyl/Data Structures/HashMap.md",
-    "_Templates/Object.md",
     "Support/Shariyl/Dependency Graph.canvas",
     "Dependency Graph.canvas",
     "Untitled/Untitled.canvas"
