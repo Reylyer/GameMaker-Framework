@@ -5,6 +5,8 @@ tags:
   - TODO
 cssclasses:
   - Atom
+aliases:
+  - Core UI
 ---
 # TODO
 - [ ] Recap

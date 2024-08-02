@@ -58,14 +58,11 @@ ubah_kuadrat(glob_b, b); // global b adalah 144
 ubah_kuadrat(glob_c, c); // global c adalah 1600
 ```
 
-contoh usecase lain yang umum adalah mengubah sumber read variable tanpa menggunakan if
+contoh usecase lain yang umum adalah mengubah sumber read variable saat runtime
+// TODO
 
 ```js
-if (player_1.player_number == 1) {
-	// do something
-} else if (player_2.player_number == 2){
-	// do something
-}
+
 ```
 
 
@@ -86,7 +83,29 @@ function reference(_target, _symbol) {
 
 Untuk saat ini yang dapat dilakukan reference adalah struktur data map, structs, dan instance object. Namun ada kasus spesial untuk menggunakan reference untuk function. 
 
-Untuk reference function use case utamanya adalah ketika use case yang normal (structs) tapi dilakukan dengan evaluasi fungsi, 
+Untuk reference function use case utamanya adalah ketika use case yang normal (structs) tapi dilakukan dengan evaluasi fungsi. Use case untuk function reference ini cukup sering ditemukan di dalam [[_Core UI|Core UI]] sebagai generalisasi untuk merubah parent tanpa melakukan perubahan secara langsung. Berikut contoh penggunaan dalam [[List Menu]] agar control naik dan turun bisa diubah tanpa mengubah step event
+
+`obj_core_ui_list_menu`:`create`
+```js
+// default control
+listen_event_scroll_up   = reference_function(self.id, keyboard_check, [vk_up]);
+listen_event_scroll_down = reference_function(self.id, keyboard_check, [vk_down]);
+```
+`obj_core_ui_list_menu`:`step`
+```js
+	if (active_index > 0 && listen_event_scroll_up()) {
+		...
+		event_scroll_up.emit();
+	}
+	
+	// For moving down
+	if (active_index < ds_list_size(item_list) - 1 && listen_event_scroll_down()) {
+		...
+		event_scroll_down.emit();
+	}
+```
+
+jika dilihat 
 
 Mirip dengan reference biasa, reference function dipisah sebagai fungsi yang berbeda bernama `reference_function` 
 
