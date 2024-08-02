@@ -56,8 +56,19 @@ var a = 10, b = 12, c = 40;
 ubah_kuadrat(glob_a, a); // global a adalah 100
 ubah_kuadrat(glob_b, b); // global b adalah 144
 ubah_kuadrat(glob_c, c); // global c adalah 1600
-
 ```
+
+contoh usecase lain yang umum adalah mengubah sumber read variable tanpa menggunakan if
+
+```js
+if (player_1.player_number == 1) {
+	// do something
+} else if (player_2.player_number == 2){
+	// do something
+}
+```
+
+
 
 Terlihat lebih simpel (?) tapi kenapa tipe datanya sebuah function bukan Reference? Ini karena keterbatasan dari GML yang tidak menyediakan style `functor` atau `__callable__` yang membuat reference ini hasil antara seelegan mungkin dan seminimal overhead mungkin. Jika dilihat implementasinya, reference merupakan sebuah fungsi wrapper untuk membuat binding reference ke variabel yang diinginkan.
 
@@ -73,38 +84,11 @@ function reference(_target, _symbol) {
 }
 ```
 
-dan InternalReference adalah:
-```js
-function InternalReference (_target, _symbol) constructor {
-	
-	target = _target;
-	symbol  = _symbol;
-			
-	if (instance_exists(target) or is_struct(target)) {
-		/// @param {Any} _set_value
-		ref = function (_set_value = pointer_null) {
-			if (_set_value == pointer_null) {
-				return target[$ symbol];
-			}  else {
-				target[$ symbol] = _set_value;
-			}
-		}
-	} else if (ds_exists(target, ds_type_map)) {
-		/// @param {Any} _set_value
-		ref = function (_set_value = pointer_null) {
-			if (_set_value == pointer_null) {
-				return target[? symbol];
-			} else {
-				target[? symbol] = _set_value;
-			}
-		}
-	}
-}
-```
-
 Untuk saat ini yang dapat dilakukan reference adalah struktur data map, structs, dan instance object. Namun ada kasus spesial untuk menggunakan reference untuk function. 
 
-Untuk reference function use case utamanya adalah ketika ingin melakukan evaluasi suatu fungsi tapi 
+Untuk reference function use case utamanya adalah ketika use case yang normal (structs) tapi dilakukan dengan evaluasi fungsi, 
+
+Mirip dengan reference biasa, reference function dipisah sebagai fungsi yang berbeda bernama `reference_function` 
 
 ```js
 function reference_function(_id, _func, _args=[]) {
