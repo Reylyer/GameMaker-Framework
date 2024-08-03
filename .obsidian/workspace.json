@@ -47,9 +47,11 @@
             "id": "af0a299dfbd173cf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/training.png"
+                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/training.png",
+                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/training.png",
+                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/training.png"
+                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md"
               }
             }
           },
@@ -205,9 +207,10 @@
   },
   "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
+    "Attachments/training.png",
+    "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md",
     "Attachments/Frame With Control Stack Explanation.png",
     "Attachments/List Menu.png",
-    "Attachments/training.png",
     "Random Canvas/training.canvas",
     "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training.md",
     "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training_mod.md",
@@ -247,7 +250,6 @@
     "Random Canvas/Frame With Control Stack Explanation.canvas",
     "Random Canvas/Untitled.canvas",
     "Support/Shariyl/Core UI/Primitives/Frame With Control Stack.md",
-    "Support/Shariyl/Core UI/Lists/List Item.md",
     "Attachments",
     "New folder",
     "Support/Shariyl/Core UI/Decorator",
