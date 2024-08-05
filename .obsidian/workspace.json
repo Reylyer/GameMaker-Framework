@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Core/Event Broker.md",
+                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/Shariyl/Core/Event Broker.md",
+                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/Shariyl/Core/Event Broker.md",
+                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Shariyl/Core/Event Broker.md"
+                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md"
               }
             }
           },
@@ -207,6 +207,10 @@
   },
   "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
+    "Pasted image 20240805212713.png",
+    "Pasted image 20240805212702.png",
+    "Pasted image 20240805212543.png",
+    "Support/Shariyl/Core/Event Broker.md",
     "Pasted image 20240805182550.png",
     "Pasted image 20240805182138.png",
     "Support/Shariyl/Core/_Core.md",
@@ -231,7 +235,6 @@
     "Garuda Emblem/Objects/systems/room_based/basecamp",
     "Garuda Emblem/Objects/systems/room_based",
     "Support/Shariyl/Core/Reference.md",
-    "Support/Shariyl/Core/Event Broker.md",
     "Support/Shariyl/Core/Camera.md",
     "Support/Shariyl/Core UI/_Core UI.md",
     "Support/Shariyl/Core/System Alarm.md",
@@ -246,7 +249,6 @@
     "Support/Shariyl/Core/_Contracts/HasTransform.md",
     "Support/Shariyl/Core/_Contracts",
     "Random Canvas/Poll and Emit.canvas",
-    "Attachments/Poll and Emit.png",
     "Support/Shariyl/Core UI/Lists/List Menu.md",
     "Random Canvas/List Menu.canvas",
     "Random Canvas/Frame With Control Stack Explanation.canvas",
@@ -256,8 +258,6 @@
     "New folder",
     "Support/Shariyl/Core UI/Decorator",
     "Support/Shariyl/Core UI/Generic Text",
-    "Pasted image 20240726111735.png",
-    "Pasted image 20240719204240.png",
     "Support/Shariyl/Dependency Graph.canvas",
     "Dependency Graph.canvas",
     "Untitled/Untitled.canvas"
