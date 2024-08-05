@@ -88,3 +88,14 @@ Setelah diidentifikasi, masalahnya terlalu sederhana sampai sangat menjengkelkan
 ![[Pasted image 20240805182550.png]]
 
 Hipotesis dari bug ini adalah Order of Execution dari gamemaker yang dimana beberapa objek tidak dapat melakukan reference ke struct ini untuk objek yang dibuat (di dalam IDE) setelah [[Event Broker|obj_core_system_event_broker]] ini dibuat. Tapi sepertinya hipotesis ini tidak cukup sempurna. Dengan hipotesis ini solusi yang terpikir utama adalah mengeluarkan struct ini dari objek ke dalam sebuah script dan entah kenapa dengan memindahkannya ke script menyelesaikan masalah tersebut...
+
+05/08/2024
+banyak yang sudah ok, tapi beberapa objek masih memberikan freeze whitescreen
+yang ok
+- semua tentang per list an
+- control stack
+yang masih
+- obj_training_controller yang subscribe `event_input_menu_open`
+
+
+---
