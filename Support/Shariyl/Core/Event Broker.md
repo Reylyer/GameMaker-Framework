@@ -96,6 +96,6 @@ yang ok
 - control stack
 yang masih
 - obj_training_controller yang subscribe `event_input_menu_open`
-
+- event_on_gain_control di `obj_list_menu_training_spawn_generic`
 
 ---
