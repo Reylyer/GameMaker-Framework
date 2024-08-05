@@ -22,6 +22,9 @@ cssclasses:
 ## Structs
 
 # Changelog
+
+## 05/08/2024
+- [ ] Fixed bug aneh ketika register tidak bisa ke event sendiri
 ## 02/08/2024
 Init changelog
 - [x] Created Event Broker system

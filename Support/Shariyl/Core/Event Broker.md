@@ -8,6 +8,7 @@ cssclasses:
   - Atom
 aliases:
   - Custom Events
+  - obj_core_system_event_broker
 ---
 \* sedikit glossarium
 1. Event: Sebuah peristiwa, contoh: `if (keyboard_check(ord("A")) { // peristiwa }
@@ -66,3 +67,24 @@ obj_will_emit_event.event_example.subscribe(self.id, on_event_example_emitted);
 # Methods
 
 # Events
+
+
+
+# Bug Logs
+## White Screen Freeze saat self subscribe event
+![[Pasted image 20240805182138.png]]
+Bug ini muncul ketika ada sebuah objek yang menyediakan event, kemudian melakukan subscribe ke event tersebut. Hasilnya adalah saat di debug/run game akan stuck di layar putih not responding.
+
+Jika dilihat dari output log, pesan terakhir yang disampaikan adalah
+
+```
+Done ObjectLists
+Done Extension_Initialize
+About to startroom
+```
+
+Setelah diidentifikasi, masalahnya terlalu sederhana sampai sangat menjengkelkan. Bug ini disebabkan oleh Struct yang ditaruh di dalam objek [[Event Broker|obj_core_system_event_broker]] seperti ini
+
+![[Pasted image 20240805182550.png]]
+
+Hipotesis dari bug ini adalah Order of Execution dari gamemaker yang dimana beberapa objek tidak dapat melakukan reference ke struct ini untuk objek yang dibuat (di dalam IDE) setelah [[Event Broker|obj_core_system_event_broker]] ini dibuat. Tapi sepertinya hipotesis ini tidak cukup sempurna. Dengan hipotesis ini solusi yang terpikir utama adalah mengeluarkan struct ini dari objek ke dalam sebuah script dan entah kenapa dengan memindahkannya ke script menyelesaikan masalah tersebut...
