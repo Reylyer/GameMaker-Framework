@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md",
+                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training_mod.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md",
+                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training_mod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md",
+                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training_mod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md"
+                "file": "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training_mod.md"
               }
             }
           },
@@ -207,6 +207,7 @@
   },
   "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
+    "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md",
     "Pasted image 20240805212713.png",
     "Pasted image 20240805212702.png",
     "Pasted image 20240805212543.png",
@@ -214,7 +215,6 @@
     "Pasted image 20240805182550.png",
     "Pasted image 20240805182138.png",
     "Support/Shariyl/Core/_Core.md",
-    "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md",
     "Attachments/training.png",
     "Attachments/Frame With Control Stack Explanation.png",
     "Attachments/List Menu.png",
@@ -242,7 +242,6 @@
     "out/plantuml/event_broker/Event Broker.png",
     "out/plantuml/event_broker",
     "out/plantuml/training_menu/Spawn In General.png",
-    "out/plantuml/training_menu/asd.png",
     "plantuml/event_broker.puml",
     "Support/Shariyl/Core UI/_Contracts/Macros.md",
     "Support/Shariyl/Core/_Contracts/HasTrigger.md",
