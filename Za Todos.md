@@ -6,6 +6,8 @@
 - [ ] 
 - [x] Dokumentasi List 
 - [ ] ^ About sama message kelupaan
+- [ ] simple queue timer
+- [ ] simple queue timer executor 
 
 # For QOL
 - [x] Implement fitur/tipe data reference | **IN TESTING 

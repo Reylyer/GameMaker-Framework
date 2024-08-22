@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Core/Event Broker.md",
+                "file": "Za Todos.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/Shariyl/Core/Event Broker.md",
+                "file": "Za Todos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/Shariyl/Core/Event Broker.md",
+                "file": "Za Todos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Shariyl/Core/Event Broker.md"
+                "file": "Za Todos.md"
               }
             }
           },
@@ -207,13 +207,13 @@
   },
   "active": "af0a299dfbd173cf",
   "lastOpenFiles": [
+    "Support/Shariyl/Core/Event Broker.md",
     "Support/Shariyl/Core/_Core.md",
     "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training_mod.md",
     "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md",
     "Pasted image 20240805212713.png",
     "Pasted image 20240805212702.png",
     "Pasted image 20240805212543.png",
-    "Support/Shariyl/Core/Event Broker.md",
     "Pasted image 20240805182550.png",
     "Pasted image 20240805182138.png",
     "Attachments/training.png",
