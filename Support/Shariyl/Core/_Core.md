@@ -23,6 +23,9 @@ cssclasses:
 
 # Changelog
 
+## 23/08/2024
+- [x] New Feature: Queue Executor
+- [x] New Feature: Notification - Toast
 ## 05/08/2024
 - [ ] Fixed bug aneh ketika register tidak bisa ke event sendiri
 ## 02/08/2024
