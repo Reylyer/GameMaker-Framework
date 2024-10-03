@@ -23,7 +23,8 @@ Secara umum List Menu disusun seperti ini
 # TODO
 - [ ] Nulis dokumentasi
 - [ ] Contoh modifikasi
-- [ ] alternative lain 
+- [ ] alternative lain
+- [ ] alternative lain adalah list menu 2d adalah parent dari list menu (masalah di event listener yang kacau)
 
 # Attributes
 | Name                      | Type                                 | Description                                                                                                                                                                                             |
