@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Core UI/Virtual Room.md",
+                "file": "Support/Shariyl/Core UI/Description Box.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/Shariyl/Core UI/Virtual Room.md",
+                "file": "Support/Shariyl/Core UI/Description Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/Shariyl/Core UI/Virtual Room.md",
+                "file": "Support/Shariyl/Core UI/Description Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Shariyl/Core UI/Virtual Room.md"
+                "file": "Support/Shariyl/Core UI/Description Box.md"
               }
             }
           },
@@ -209,9 +209,9 @@
   "lastOpenFiles": [
     "Support/Shariyl/Core UI/GUI and Code.md",
     "Support/Shariyl/Core UI/Layer Handler.md",
-    "Support/Shariyl/Core UI/Description Box.md",
     "Support/Shariyl/Core UI/Sprite Handler.md",
     "Support/Shariyl/Core UI/Virtual Room.md",
+    "Support/Shariyl/Core UI/Description Box.md",
     "Support/Shariyl/Core UI/Lists/List Menu.md",
     "Support/Shariyl/Core UI/Lists/List Menu 2D.md",
     "Support/Shariyl/Core UI/Window Tabs.md",
