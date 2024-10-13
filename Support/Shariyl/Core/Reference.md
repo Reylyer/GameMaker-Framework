@@ -126,7 +126,7 @@ function reference_function(_id, _func, _args=[]) {
 }
 ```
 
-# ToDo
+# TODO
 - [ ] Enforce Clean up atau implementasi Garbage Collection assistant 
 # Attributes
 

@@ -47,6 +47,36 @@
             "id": "af0a299dfbd173cf",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Pasted image 20240805212543.png"
+              }
+            }
+          },
+          {
+            "id": "24a8f3541e6f3d95",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Pasted image 20240718120908.png"
+              }
+            }
+          },
+          {
+            "id": "aeacb4bd65382828",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Pasted image 20240719204240.png"
+              }
+            }
+          },
+          {
+            "id": "5e6c42c5ff204d46",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Support/Shariyl/Core/Queue Executor.md",
@@ -68,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -205,51 +235,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af0a299dfbd173cf",
+  "active": "5e6c42c5ff204d46",
   "lastOpenFiles": [
-    "Za Todos.md",
-    "Support/Shariyl/Core/Queue Executor.md",
-    "Support/Shariyl/Core/_Core.md",
     "Support/Shariyl/Core/Object.md",
-    "Support/Shariyl/Core/_Contracts/HasTrigger.md",
-    "Support/Shariyl/Core UI/Lists/List Menu 2D.md",
-    "Support/Shariyl/Core UI/_Core UI.md",
-    "Support/Shariyl/Core UI/Description Box.md",
-    "Support/Shariyl/Core UI/GUI and Code.md",
-    "Support/Shariyl/Core UI/Layer Handler.md",
-    "Support/Shariyl/Core UI/Sprite Handler.md",
-    "Support/Shariyl/Core UI/Window Tabs.md",
-    "Support/Shariyl/Core UI/Virtual Room.md",
-    "General Terms/Manager.md",
-    "General Terms",
-    "Support/Shariyl/Core UI/Generic Text/Text Generic.md",
-    "Support/Shariyl/Core UI/Generic Text/Text Generic Element.md",
-    "Support/Shariyl/Core UI/Lists/List Menu.md",
-    "Support/Shariyl/Core UI/Lists/List Item.md",
-    "Support/Shariyl/Core UI/Primitives/Chainable Frame.md",
-    "Support/Shariyl/Core UI/Untitled",
-    "Support/Shariyl/Core UI/Generic Text/Text Generic Specialization/Text Generic Element Sprite.md",
     "Support/Shariyl/Core/Event Broker.md",
+    "Support/Shariyl/Core/Camera.md",
+    "_Templates/Object.md",
+    "2024-10-14.md",
+    "Support/Shariyl/Core UI/Primitives/Frame.md",
+    "Support/Shariyl/Core UI/Primitives/Chainable Frame.md",
+    "Support/Standards/option.md",
+    "Support/Shariyl/Data Structures/HashMap.md",
+    "Support/Shariyl/Core UI/Window Tabs.md",
+    "Support/Shariyl/Core UI/Sprite Handler.md",
+    "Support/Shariyl/Core UI/Layer Handler.md",
+    "Support/Shariyl/Core/Queue Executor.md",
+    "Support/Shariyl/Core UI/Generic Text/Text Generic.md",
+    "Support/Shariyl/Core UI/GUI and Code.md",
+    "Support/Shariyl/Core UI/Generic Text/Text Generic Element.md",
     "Support/Shariyl/Core/Reference.md",
     "Support/Shariyl/Core/System Alarm.md",
-    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training_mod.md",
-    "Garuda Emblem/Objects/systems/room_based/basecamp/MODDING GUIDE.md",
-    "Pasted image 20240805212713.png",
-    "Pasted image 20240805212702.png",
-    "Pasted image 20240805212543.png",
-    "Pasted image 20240805182550.png",
-    "Pasted image 20240805182138.png",
-    "Attachments/training.png",
-    "Attachments/Frame With Control Stack Explanation.png",
-    "Attachments/List Menu.png",
+    "Support/Shariyl/Data Structures/Utils/Access helper.md",
+    "Support/Shariyl/Core UI/Virtual Room.md",
+    "Support/Shariyl/Core UI/Description Box.md",
+    "Support/Shariyl/Core UI/_Core UI.md",
+    "Support/Shariyl/Core UI/Lists/List Menu 2D.md",
+    "Support/Shariyl/Core UI/Lists/List Item.md",
+    "Support/Shariyl/Core UI/Lists/List Menu.md",
+    "Support/Shariyl/Data Structures/List.md",
+    "Attachments/Poll and Emit.png",
+    "out/plantuml/event_broker/Event Broker.png",
+    "Attachments/Camera Analysis.png",
+    "Attachments/Pasted image 20240718120908.png",
+    "Attachments/Pasted image 20240719204240.png",
+    "Attachments/Pasted image 20240726111735.png",
+    "Attachments/Pasted image 20240805212543.png",
+    "Attachments/Pasted image 20240805212702.png",
+    "Attachments/Pasted image 20240805212713.png",
+    "General Terms",
+    "Support/Shariyl/Core UI/Untitled",
+    "Attachments/Pasted image 20240805182550.png",
     "Random Canvas/training.canvas",
-    "Garuda Emblem/Objects/systems/room_based/basecamp/obj_list_menu_training.md",
     "Garuda Emblem/Objects/systems/room_based/basecamp/Untitled",
     "Garuda Emblem/Objects/systems/room_based/basecamp",
     "Garuda Emblem/Objects/systems/room_based",
-    "out/plantuml/event_broker/Event Broker.png",
     "out/plantuml/event_broker",
-    "out/plantuml/training_menu/Spawn In General.png",
     "plantuml/event_broker.puml",
     "Support/Shariyl/Core/_Contracts",
     "Random Canvas/Poll and Emit.canvas",

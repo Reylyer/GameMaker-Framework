@@ -1,3 +1,3 @@
 Manager yang mengurus satu layer di suatu room yang dipanggil lewat [[Virtual Room]]. Layer Handler menyimpan beberapa [[Sprite Handler]] dengan setiap [[Sprite Handler]] memiliki depth yang sama.
 
-Layer handler memiliki depth yang digunakan sebagai pseudo draw order oleh [[Virtual Room|Room Loader]]. Yap, [[Virtual Room|Room Loader]] yang menginit draw event untuk [[Layer Handler]] lewat [[Virtual Room|Virtual Room Data]]
+Layer handler memiliki depth yang digunakan sebagai pseudo draw order oleh [[Virtual Room|Room Loader]]. Yap, [[Virtual Room|Room Loader]] yang menginit draw event untuk [[Layer Handler]] lewat [[Virtual Room|Virtual Room Data]] 
