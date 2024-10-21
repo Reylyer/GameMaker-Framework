@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support/Shariyl/Core/Queue Executor.md",
+                "file": "Support/Shariyl/Core UI/Window Tabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/Shariyl/Core/Queue Executor.md",
+                "file": "Support/Shariyl/Core UI/Window Tabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/Shariyl/Core/Queue Executor.md",
+                "file": "Support/Shariyl/Core UI/Window Tabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Shariyl/Core/Queue Executor.md"
+                "file": "Support/Shariyl/Core UI/Window Tabs.md"
               }
             }
           },
@@ -237,32 +237,32 @@
   },
   "active": "5e6c42c5ff204d46",
   "lastOpenFiles": [
+    "Support/Shariyl/Core UI/Sprite Handler.md",
+    "Support/Shariyl/Core UI/Virtual Room dan Scene.md",
+    "Support/Shariyl/Core UI/GUI and Code.md",
+    "Support/Shariyl/Core UI/Layer Handler.md",
+    "Support/Shariyl/Core UI/Description Box.md",
+    "Support/Shariyl/Core UI/Primitives/Point2D.md",
+    "Support/Shariyl/Core UI/_Core UI.md",
+    "Support/Shariyl/Core UI/Primitives/Frame With Control Stack.md",
+    "Support/Shariyl/Core UI/Primitives/Frame.md",
+    "Support/Shariyl/Core/Queue Executor.md",
+    "Support/Shariyl/Core UI/Untitled.md",
     "Support/Shariyl/Core/Object.md",
     "Support/Shariyl/Core/Event Broker.md",
     "Support/Shariyl/Core/Camera.md",
     "_Templates/Object.md",
     "2024-10-14.md",
-    "Support/Shariyl/Core UI/Primitives/Frame.md",
     "Support/Shariyl/Core UI/Primitives/Chainable Frame.md",
     "Support/Standards/option.md",
     "Support/Shariyl/Data Structures/HashMap.md",
     "Support/Shariyl/Core UI/Window Tabs.md",
-    "Support/Shariyl/Core UI/Sprite Handler.md",
-    "Support/Shariyl/Core UI/Layer Handler.md",
-    "Support/Shariyl/Core/Queue Executor.md",
     "Support/Shariyl/Core UI/Generic Text/Text Generic.md",
-    "Support/Shariyl/Core UI/GUI and Code.md",
     "Support/Shariyl/Core UI/Generic Text/Text Generic Element.md",
     "Support/Shariyl/Core/Reference.md",
     "Support/Shariyl/Core/System Alarm.md",
     "Support/Shariyl/Data Structures/Utils/Access helper.md",
-    "Support/Shariyl/Core UI/Virtual Room.md",
-    "Support/Shariyl/Core UI/Description Box.md",
-    "Support/Shariyl/Core UI/_Core UI.md",
     "Support/Shariyl/Core UI/Lists/List Menu 2D.md",
-    "Support/Shariyl/Core UI/Lists/List Item.md",
-    "Support/Shariyl/Core UI/Lists/List Menu.md",
-    "Support/Shariyl/Data Structures/List.md",
     "Attachments/Poll and Emit.png",
     "out/plantuml/event_broker/Event Broker.png",
     "Attachments/Camera Analysis.png",
