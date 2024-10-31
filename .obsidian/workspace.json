@@ -4,115 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abd370afde4237e8",
+        "id": "92b81ba008443dce",
         "type": "tabs",
         "children": [
           {
-            "id": "360e6e002d651e60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Support/Shariyl/Core UI/Primitives/Chainable Frame.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chainable Frame"
-            }
-          },
-          {
-            "id": "f955d4a028cfcc4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Support/Shariyl/Core UI/Generic Text/Text Generic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Text Generic"
-            }
-          },
-          {
-            "id": "fc180ef43ab2f680",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/Package.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Package"
-            }
-          },
-          {
-            "id": "af0a299dfbd173cf",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Pasted image 20240805212543.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240805212543"
-            }
-          },
-          {
-            "id": "24a8f3541e6f3d95",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Pasted image 20240718120908.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240718120908"
-            }
-          },
-          {
-            "id": "aeacb4bd65382828",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Pasted image 20240719204240.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240719204240"
-            }
-          },
-          {
-            "id": "5e6c42c5ff204d46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Support/Shariyl/Core UI/Window Tabs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Window Tabs"
-            }
-          },
-          {
-            "id": "11776eef0f79e7e2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
-            "id": "c4dcb5e0b394218a",
+            "id": "39df3b702c589330",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -124,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Data"
             }
-          },
-          {
-            "id": "97bf61fb5251d5d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Support/Shariyl/Core UI/Primitives/Frame.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Frame"
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "451e3e34dfabc95c",
@@ -258,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/Shariyl/Core UI/Primitives/Chainable Frame.md"
+                "file": "Data.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Chainable Frame"
+              "title": "Outline of Data"
             }
           },
           {
@@ -279,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 207.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,9 +174,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4dcb5e0b394218a",
+  "active": "39df3b702c589330",
   "lastOpenFiles": [
+    "index.md",
+    "Za Todos.md",
     "Data.md",
+    "2024-10-14.md",
+    "Support/Shariyl/Core UI/Primitives/Frame.md",
     "Support/Shariyl/Core UI/Sprite Handler.md",
     "Support/Shariyl/Core UI/Virtual Room dan Scene.md",
     "Support/Shariyl/Core UI/GUI and Code.md",
@@ -303,14 +189,12 @@
     "Support/Shariyl/Core UI/Primitives/Point2D.md",
     "Support/Shariyl/Core UI/_Core UI.md",
     "Support/Shariyl/Core UI/Primitives/Frame With Control Stack.md",
-    "Support/Shariyl/Core UI/Primitives/Frame.md",
     "Support/Shariyl/Core/Queue Executor.md",
     "Support/Shariyl/Core UI/Untitled.md",
     "Support/Shariyl/Core/Object.md",
     "Support/Shariyl/Core/Event Broker.md",
     "Support/Shariyl/Core/Camera.md",
     "_Templates/Object.md",
-    "2024-10-14.md",
     "Support/Shariyl/Core UI/Primitives/Chainable Frame.md",
     "Support/Standards/option.md",
     "Support/Shariyl/Data Structures/HashMap.md",
@@ -318,8 +202,6 @@
     "Support/Shariyl/Core UI/Generic Text/Text Generic.md",
     "Support/Shariyl/Core UI/Generic Text/Text Generic Element.md",
     "Support/Shariyl/Core/Reference.md",
-    "Support/Shariyl/Core/System Alarm.md",
-    "Support/Shariyl/Data Structures/Utils/Access helper.md",
     "Attachments/Poll and Emit.png",
     "out/plantuml/event_broker/Event Broker.png",
     "Attachments/Camera Analysis.png",
