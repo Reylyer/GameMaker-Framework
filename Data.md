@@ -25,6 +25,6 @@ Base stat
 
 player state
 
-| column name | colum name rn | setter |
-| ----------- | ------------- | ------ |
-|             |               |        |
+| column name   | colum name rn | setter |
+| ------------- | ------------- | ------ |
+| food_consumed | -             |        |
