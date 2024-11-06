@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Data"
             }
+          },
+          {
+            "id": "7d7c6c5b2d61bb8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +187,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39df3b702c589330",
+  "active": "7d7c6c5b2d61bb8a",
   "lastOpenFiles": [
     "index.md",
     "Za Todos.md",
