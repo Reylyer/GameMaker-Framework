@@ -25,12 +25,14 @@
             "id": "7d7c6c5b2d61bb8a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "Support/Shariyl/Core UI/Virtual Room Handlers/Custom Draw Handler.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Custom Draw Handler"
             }
           }
         ],
@@ -90,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "451e3e34dfabc95c",
@@ -189,16 +190,25 @@
   },
   "active": "7d7c6c5b2d61bb8a",
   "lastOpenFiles": [
+    "Support/Shariyl/Core UI/Virtual Room Handlers/Layer Handler.md",
+    "Support/Shariyl/Core UI/Virtual Room Handlers/Sequence Handler.md",
+    "Support/Shariyl/Core UI/Virtual Room Handlers/Sprite Handler.md",
+    "Support/Shariyl/Core UI/Virtual Room Handlers/Surface Handler.md",
+    "Support/Shariyl/Core UI/Virtual Room Handlers/Text Handler.md",
+    "Support/Shariyl/Core UI/Decorator/ScrollBar.md",
+    "Support/Shariyl/Core UI/Virtual Room Handlers/LayerHandler.md",
+    "Support/Shariyl/Core UI/Virtual Room dan Scene.md",
+    "Support/Shariyl/Core UI/Virtual Room Handlers/SpriteHandler.md",
+    "Support/Shariyl/Core UI/Neo Layouting.md",
+    "Support/Shariyl/Core UI/Description Box.md",
+    "Support/Shariyl/Core UI/Virtual Room Handlers/Custom Draw Handler.md",
+    "Support/Shariyl/Core UI/Virtual Room Handlers/Untitled",
+    "Support/Shariyl/Core UI/Virtual Room Handlers",
     "index.md",
     "Za Todos.md",
     "Data.md",
     "2024-10-14.md",
     "Support/Shariyl/Core UI/Primitives/Frame.md",
-    "Support/Shariyl/Core UI/Sprite Handler.md",
-    "Support/Shariyl/Core UI/Virtual Room dan Scene.md",
-    "Support/Shariyl/Core UI/GUI and Code.md",
-    "Support/Shariyl/Core UI/Layer Handler.md",
-    "Support/Shariyl/Core UI/Description Box.md",
     "Support/Shariyl/Core UI/Primitives/Point2D.md",
     "Support/Shariyl/Core UI/_Core UI.md",
     "Support/Shariyl/Core UI/Primitives/Frame With Control Stack.md",
@@ -208,13 +218,6 @@
     "Support/Shariyl/Core/Event Broker.md",
     "Support/Shariyl/Core/Camera.md",
     "_Templates/Object.md",
-    "Support/Shariyl/Core UI/Primitives/Chainable Frame.md",
-    "Support/Standards/option.md",
-    "Support/Shariyl/Data Structures/HashMap.md",
-    "Support/Shariyl/Core UI/Window Tabs.md",
-    "Support/Shariyl/Core UI/Generic Text/Text Generic.md",
-    "Support/Shariyl/Core UI/Generic Text/Text Generic Element.md",
-    "Support/Shariyl/Core/Reference.md",
     "Attachments/Poll and Emit.png",
     "out/plantuml/event_broker/Event Broker.png",
     "Attachments/Camera Analysis.png",
@@ -225,7 +228,6 @@
     "Attachments/Pasted image 20240805212702.png",
     "Attachments/Pasted image 20240805212713.png",
     "General Terms",
-    "Support/Shariyl/Core UI/Untitled",
     "Attachments/Pasted image 20240805182550.png",
     "Random Canvas/training.canvas",
     "Garuda Emblem/Objects/systems/room_based/basecamp/Untitled",
@@ -239,7 +241,6 @@
     "Random Canvas/Frame With Control Stack Explanation.canvas",
     "Random Canvas/Untitled.canvas",
     "Attachments",
-    "New folder",
     "Support/Shariyl/Dependency Graph.canvas",
     "Dependency Graph.canvas",
     "Untitled/Untitled.canvas"

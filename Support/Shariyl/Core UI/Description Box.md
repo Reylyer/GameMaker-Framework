@@ -9,6 +9,7 @@ cssclasses:
 aliases:
   - obj_core_ui_description_box
 ---
+# ! Deprecated ! - use [[Text Handler]] with 
 # About
 A frame that contains a generic container that can be sprite or object; or a sprite and a fancy description text below the container.
 # TODO
