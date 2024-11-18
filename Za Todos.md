@@ -1,13 +1,22 @@
 # Kinda Urgent
-- [ ] asd
+- [ ] sound mixing
 
 # Todo
 - [ ] Ngejar ngedokumentasi sistem yang udah ada
 - [ ] 
 - [x] Dokumentasi List 
 - [ ] ^ About sama message kelupaan
-- [ ] simple queue timer
-- [ ] simple queue timer executor 
+- [x] simple queue timer
+- [x] simple queue timer executor 
+- [ ] Ingame Menu
+- [x] ^ Stat
+- [x] ^ Inventory
+- [ ] ^ Sidequest
+- [ ] ^ Map
+- [ ] ^ Skill Tree
+- [ ] ^ Movelist
+- [ ] ^ Settings
+- [ ] ^ Exit
 
 # For QOL
 - [x] Implement fitur/tipe data reference | **IN TESTING 
@@ -15,8 +24,9 @@
 - [ ] 
 
 # Just Ngide 
-- [ ] Debug performance issue (stuttering)
+- [x] Debug performance issue (stuttering)
+- [ ] Control jangan di global, pindah ke object player
+- [ ] 
 
 # TODO nya programmer
-- [ ] Benerin bagian pause agar pause frame include semua entity yang ada
 - [ ] 
