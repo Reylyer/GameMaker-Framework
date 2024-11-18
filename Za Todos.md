@@ -1,5 +1,6 @@
 # Kinda Urgent
 - [ ] sound mixing
+- [ ] fix abyssmal performance on QTE
 
 # Todo
 - [ ] Ngejar ngedokumentasi sistem yang udah ada
