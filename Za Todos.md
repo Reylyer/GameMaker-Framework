@@ -11,7 +11,7 @@
 
 # For QOL
 - [x] Implement fitur/tipe data reference | **IN TESTING 
-- [ ] ^ follow up untuk cleanup yang baik dan benar
+- [x] ^ follow up untuk cleanup yang baik dan benar
 - [ ] 
 
 # Just Ngide 
