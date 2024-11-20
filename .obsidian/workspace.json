@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Za Todos"
             }
+          },
+          {
+            "id": "332ad5e412f354ad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0c2584caef2c7a4",
+  "active": "332ad5e412f354ad",
   "lastOpenFiles": [
     "Support/Shariyl/Core UI/Virtual Room Handlers/Custom Draw Handler.md",
     "Support/Shariyl/Core UI/Virtual Room Handlers/Layer Handler.md",
