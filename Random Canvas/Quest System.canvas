@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"41fddc42d7d9934b","type":"text","text":"Quest\n\n\n\\* no reward on complete, QuestStep the one has","x":-293,"y":-134,"width":250,"height":134},
-		{"id":"813b57c53bfb1885","type":"text","text":"QuestStep\n\n","x":100,"y":-134,"width":250,"height":134},
+		{"id":"813b57c53bfb1885","type":"text","text":"QuestStep\n\n","x":100,"y":-134,"width":250,"height":134,"color":"1"},
 		{"id":"cb3e0c64cfa90fc7","type":"text","text":"QuestStep","x":100,"y":40,"width":250,"height":120,"color":"1"},
 		{"id":"5a8309ba7e442efc","type":"text","text":"Script","x":680,"y":-120,"width":250,"height":220},
 		{"id":"d91b668ab90dd013","type":"text","text":"Call completion","x":440,"y":-127,"width":180,"height":60},
