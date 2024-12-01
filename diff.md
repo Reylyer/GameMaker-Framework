@@ -1,3 +1,2 @@
-- [ ] `obj_ingame_menu.vs_sidequest_a.state = "taken"` -> `(obj_ingame_menu.vs_sidequest_a.state = "taken" or obj_quest_manager.q_missed_notebook.progress_index == 0)`
-- [ ] `and obj_ingame_menu.vs_sidequest_a.progress = 1` -> `/* and obj_ingame_menu.vs_sidequest_a.progress = 1 */`
 - [ ] `obj_ingame_menu.vs_sidequest_a.state = "taken" and obj_ingame_menu.vs_sidequest_a.progress = 1` -> `/* obj_ingame_menu.vs_sidequest_a.state = "taken" and obj_ingame_menu.vs_sidequest_a.progress = 1 */ obj_quest_manager.q_missed_notebook.progress_index == 0`
+- [ ] 
