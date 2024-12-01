@@ -1,0 +1,1 @@
+- [ ] `obj_ingame_menu.vs_sidequest_a.state = "taken"` -> `(obj_ingame_menu.vs_sidequest_a.state = "taken" or obj_quest_manager.q_missed_notebook.quest_state == QUEST_STATE.)`
