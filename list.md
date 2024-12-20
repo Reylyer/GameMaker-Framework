@@ -23,7 +23,7 @@
 | Bazelgeuse     |           |       |
 | Deviljho       | X         |       |
 | Lavasioth      |           | X     |
-| Uragaan        |           |       |
+| Uragaan        | X         | X     |
 | Azure Rathalos | X         |       |
 | Black Diablos  |           |       |
 | Nergigante     |           |       |
