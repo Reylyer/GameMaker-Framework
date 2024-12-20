@@ -50,14 +50,14 @@ generic_list.add(3.5);
 ## `push`
 
 ### Description
-> Alias dari [[List#`add`|add]]
+> Alias dari [[Support/Shariyl/Data Structures/List#`add`|add]]
 
 ---
 
 ## `append`
 
 ### Description
-> Alias dari [[List#`add`|add]]
+> Alias dari [[Support/Shariyl/Data Structures/List#`add`|add]]
 
 ---
 
@@ -147,7 +147,7 @@ No param
 > `Any` 
 
 ### Description
-> Menggambil data element terakhir dari list, berbeda dengan [[List#`pop`|pop]], fungsi ini tidak menghapus element terakhir
+> Menggambil data element terakhir dari list, berbeda dengan [[Support/Shariyl/Data Structures/List#`pop`|pop]], fungsi ini tidak menghapus element terakhir
 ### Example
    
 ```js
@@ -195,7 +195,7 @@ No param
 > `Bool` 
 
 ### Description
-> Mengecek apakah list tidak kosong, negasi dari [[List#`is_empty`|is_empty]]
+> Mengecek apakah list tidak kosong, negasi dari [[Support/Shariyl/Data Structures/List#`is_empty`|is_empty]]
 
 ### Example
    
@@ -220,7 +220,7 @@ No param
 > `Bool` 
 
 ### Description
-> Mengecek apakah list kosong, negasi dari [[List#`is_not_empty`|is_not_empty]]
+> Mengecek apakah list kosong, negasi dari [[Support/Shariyl/Data Structures/List#`is_not_empty`|is_not_empty]]
 
 ### Example
    
@@ -244,10 +244,10 @@ generic_list.is_not_empty(); // false
 | `_func`      | `function` | Fungsi yang akan diapply ke setiap element |
 | `_parameter` |            | Not implemented yet TODO                   |
 ### Returns 
-> [[List]] 
+> [[Support/Shariyl/Data Structures/List]] 
 
 ### Description
-> Fungsi yang akan meng-apply fungsi `_func` ke setiap element yang ada di list. Fungsi ini tidak melakukan modifikasi terhadap list aslinya dan akan mereturn [[List]] baru hasil dari kembalian fungsi ke setiap element
+> Fungsi yang akan meng-apply fungsi `_func` ke setiap element yang ada di list. Fungsi ini tidak melakukan modifikasi terhadap list aslinya dan akan mereturn [[Support/Shariyl/Data Structures/List]] baru hasil dari kembalian fungsi ke setiap element
 
 ### Example
    

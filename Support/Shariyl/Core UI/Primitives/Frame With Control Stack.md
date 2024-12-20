@@ -26,7 +26,7 @@ Contoh dengan canvas:
 # Attributes
 | Name            | Type     | Description                        |
 | --------------- | -------- | ---------------------------------- |
-| `control_stack` | [[List]] | List yang menyimpan stack control. |
+| `control_stack` | [[Support/Shariyl/Data Structures/List]] | List yang menyimpan stack control. |
 |                 |          |                                    |
 More on [[Frame#Attributes]]
 
