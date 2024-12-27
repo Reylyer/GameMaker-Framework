@@ -6,7 +6,7 @@
 | Pukei-Pukei          | X         |       |
 | Barroth              | X         | X     |
 | Jyuratodus           | X         |       |
-| Tobi-Kadachi         | X         |       |
+| Tobi-Kadachi         | X         | X     |
 | Anjanath             |           |       |
 | Rathian              | X         | X     |
 | Tzitzi-Ya-Ku         | X         | X     |
@@ -15,7 +15,7 @@
 | Radobaan             | X         |       |
 | Legiana              | X         |       |
 | Odogaron             | X         | X     |
-| Rathalos             |           |       |
+| Rathalos             |           | X     |
 | Diablos              |           |       |
 | Kirin                |           |       |
 | Dodogama             |           | X     |
