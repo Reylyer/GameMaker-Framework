@@ -3,7 +3,7 @@
 | -------------------- | --------- | ----- |
 | Great Jagras         | X         | X     |
 | Kulu-Ya-Ku           | X         | X     |
-| Pukei-Pukei          | X         |       |
+| Pukei-Pukei          | X         | X     |
 | Barroth              | X         | X     |
 | Jyuratodus           | X         |       |
 | Tobi-Kadachi         | X         | X     |
@@ -16,7 +16,7 @@
 | Legiana              | X         |       |
 | Odogaron             | X         | X     |
 | Rathalos             | X         | X     |
-| Diablos              |           |       |
+| Diablos              | X         |       |
 | Kirin                |           |       |
 | Dodogama             | X         | X     |
 | Pink Rathian         | X         | X     |
