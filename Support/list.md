@@ -18,7 +18,7 @@
 | Rathalos             |           | X     |
 | Diablos              |           |       |
 | Kirin                |           |       |
-| Dodogama             |           | X     |
+| Dodogama             | X         | X     |
 | Pink Rathian         | X         | X     |
 | Bazelgeuse           |           |       |
 | Deviljho             | X         |       |
