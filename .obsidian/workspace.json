@@ -86,12 +86,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garuda Emblem/Objects/systems/ingame/Submenus/Skill Tree.md",
+                "file": "Support/list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skill Tree"
+              "title": "list"
             }
           }
         ],
@@ -249,10 +249,10 @@
   },
   "active": "0e4df339fc4b9e96",
   "lastOpenFiles": [
+    "Garuda Emblem/Objects/systems/ingame/Submenus/Skill Tree.md",
     "Garuda Emblem/Objects/systems/ingame/Submenus",
     "Garuda Emblem/Objects/systems/ingame/obj_ingame_menu.md",
-    "Garuda Emblem/Objects/systems/ingame/Submenus/Skill Tree.md",
-    "list.md",
+    "Support/list.md",
     "diff.md",
     "Random Canvas/Quest System.canvas",
     "Random Canvas/Poll and Emit.canvas",
@@ -300,7 +300,6 @@
     "out/plantuml/event_broker",
     "plantuml/event_broker.puml",
     "Support/Shariyl/Core/_Contracts",
-    "Attachments",
     "Support/Shariyl/Dependency Graph.canvas",
     "Dependency Graph.canvas",
     "Untitled/Untitled.canvas"
