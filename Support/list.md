@@ -7,7 +7,7 @@
 | Barroth              | X         | X     |
 | Jyuratodus           | X         |       |
 | Tobi-Kadachi         | X         | X     |
-| Anjanath             |           |       |
+| Anjanath             |           | X     |
 | Rathian              | X         | X     |
 | Tzitzi-Ya-Ku         | X         | X     |
 | Paolumu              | X         | X     |
@@ -15,7 +15,7 @@
 | Radobaan             | X         |       |
 | Legiana              | X         |       |
 | Odogaron             | X         | X     |
-| Rathalos             |           | X     |
+| Rathalos             | X         | X     |
 | Diablos              |           |       |
 | Kirin                |           |       |
 | Dodogama             | X         | X     |
