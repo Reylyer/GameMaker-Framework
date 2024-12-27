@@ -21,11 +21,11 @@
 | Dodogama             | X         | X     |
 | Pink Rathian         | X         | X     |
 | Bazelgeuse           |           |       |
-| Deviljho             | X         |       |
+| Deviljho             | X         | X     |
 | Lavasioth            |           | X     |
 | Uragaan              | X         | X     |
 | Azure Rathalos       | X         |       |
-| Black Diablos        |           |       |
+| Black Diablos        | X         |       |
 | Nergigante           | X         |       |
 | Teostra              | X         | X     |
 | Lunastra             |           |       |
