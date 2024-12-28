@@ -33,31 +33,31 @@
 | Vaal Hazak           | X         | X     |
 |                      |           |       |
 |                      |           |       |
-|                      |           |       |
+|                      | Miniature | Giant |
 | Beotodus             |           |       |
-| Banbaro              |           |       |
+| Banbaro              |           | X     |
 | Viper Tobi-Kadachi✨  |           |       |
 | Nightshade Paolumu✨  |           |       |
 | Coral Pukei-Pukei    |           |       |
 | Barioth              |           |       |
-| Nargacuga            |           |       |
-| Glavenus             |           |       |
+| Nargacuga            |           | X     |
+| Glavenus             | X         |       |
 | Tigrex✨              |           |       |
-| Brachydios           |           |       |
+| Brachydios           | X         |       |
 | Shrieking Legiana    |           |       |
-| Fulgur Anjanath      |           |       |
+| Fulgur Anjanath      |           | X     |
 | Acidic Glavenus      |           |       |
 | Ebony Odogaron       |           |       |
 | Velkhana             |           |       |
 | Seething Bazelgeuse  |           |       |
 | Blackveil Vaal Hazak |           |       |
 | Namielle             |           |       |
-| Savage Deviljho      |           |       |
+| Savage Deviljho      | X         |       |
 | Ruiner Nergigante    |           |       |
-| Zinogre✨             |           |       |
-| Yian Garuga✨         |           |       |
+| Zinogre✨             | X         | X     |
+| Yian Garuga✨         | X         | X     |
 | Scarred Yian Garuga  |           |       |
-| Brute Tigrex         |           |       |
+| Brute Tigrex         | X         |       |
 | Gold Rathian         |           |       |
 | Silver Rathalos      |           |       |
 
