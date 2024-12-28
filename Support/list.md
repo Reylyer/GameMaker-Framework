@@ -5,7 +5,7 @@
 | Kulu-Ya-Ku           | X         | X     |
 | Pukei-Pukei          | X         | X     |
 | Barroth              | X         | X     |
-| Jyuratodus           | X         |       |
+| Jyuratodus           | X         | X     |
 | Tobi-Kadachi         | X         | X     |
 | Anjanath             |           | X     |
 | Rathian              | X         | X     |
