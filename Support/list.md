@@ -20,7 +20,7 @@
 | Kirin                |           |       |
 | Dodogama             | X         | X     |
 | Pink Rathian         | X         | X     |
-| Bazelgeuse           |           |       |
+| Bazelgeuse           |           | X     |
 | Deviljho             | X         | X     |
 | Lavasioth            |           | X     |
 | Uragaan              | X         | X     |
