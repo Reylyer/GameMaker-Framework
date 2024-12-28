@@ -12,7 +12,7 @@
 | Tzitzi-Ya-Ku         | X         | X     |
 | Paolumu              | X         | X     |
 | Great Girros         | X         | X     |
-| Radobaan             | X         |       |
+| Radobaan             | X         | X     |
 | Legiana              | X         |       |
 | Odogaron             | X         | X     |
 | Rathalos             | X         | X     |
