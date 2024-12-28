@@ -29,7 +29,7 @@
 | Nergigante           | X         |       |
 | Teostra              | X         | X     |
 | Lunastra             |           |       |
-| Kushala Daora        |           |       |
+| Kushala Daora        | X         |       |
 | Vaal Hazak           |           |       |
 |                      |           |       |
 |                      |           |       |
