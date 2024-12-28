@@ -24,7 +24,7 @@
 | Deviljho             | X         | X     |
 | Lavasioth            | X         | X     |
 | Uragaan              | X         | X     |
-| Azure Rathalos       | X         |       |
+| Azure Rathalos       | X         | X     |
 | Black Diablos        | X         |       |
 | Nergigante           | X         |       |
 | Teostra              | X         | X     |
@@ -42,7 +42,7 @@
 | Barioth              |           |       |
 | Nargacuga            |           | X     |
 | Glavenus             | X         |       |
-| Tigrex✨              |           |       |
+| Tigrex✨              |           | X     |
 | Brachydios           | X         |       |
 | Shrieking Legiana    |           |       |
 | Fulgur Anjanath      |           | X     |
