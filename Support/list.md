@@ -35,7 +35,7 @@
 |                      |           |       |
 |                      | Miniature | Giant |
 | Beotodus             |           |       |
-| Banbaro              |           | X     |
+| Banbaro              | X         | X     |
 | Viper Tobi-Kadachi✨  |           |       |
 | Nightshade Paolumu✨  |           |       |
 | Coral Pukei-Pukei    |           |       |
