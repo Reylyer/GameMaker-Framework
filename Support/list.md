@@ -30,7 +30,7 @@
 | Teostra              | X         | X     |
 | Lunastra             |           | X     |
 | Kushala Daora        | X         |       |
-| Vaal Hazak           |           | X     |
+| Vaal Hazak           | X         | X     |
 |                      |           |       |
 |                      |           |       |
 |                      |           |       |
