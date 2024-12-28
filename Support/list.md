@@ -22,7 +22,7 @@
 | Pink Rathian         | X         | X     |
 | Bazelgeuse           |           | X     |
 | Deviljho             | X         | X     |
-| Lavasioth            |           | X     |
+| Lavasioth            | X         | X     |
 | Uragaan              | X         | X     |
 | Azure Rathalos       | X         |       |
 | Black Diablos        | X         |       |
