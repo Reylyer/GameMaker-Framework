@@ -45,7 +45,7 @@
 | Tigrex✨              |           | X     |
 | Brachydios           | X         |       |
 | Shrieking Legiana    |           |       |
-| Fulgur Anjanath      |           | X     |
+| Fulgur Anjanath      | X         | X     |
 | Acidic Glavenus      |           |       |
 | Ebony Odogaron       |           |       |
 | Velkhana             |           |       |
