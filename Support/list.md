@@ -28,7 +28,7 @@
 | Black Diablos        | X         |       |
 | Nergigante           | X         |       |
 | Teostra              | X         | X     |
-| Lunastra             |           | X     |
+| Lunastra             | X         | X     |
 | Kushala Daora        | X         | X     |
 | Vaal Hazak           | X         | X     |
 |                      |           |       |
