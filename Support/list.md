@@ -47,7 +47,7 @@
 | Shrieking Legiana    |           |       |
 | Fulgur Anjanath      | X         | X     |
 | Acidic Glavenus      |           |       |
-| Ebony Odogaron       |           |       |
+| Ebony Odogaron       | X         |       |
 | Velkhana             |           |       |
 | Seething Bazelgeuse  |           |       |
 | Blackveil Vaal Hazak |           |       |
