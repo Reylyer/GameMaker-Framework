@@ -37,7 +37,7 @@
 | Beotodus             |           |       |
 | Banbaro              | X         | X     |
 | Viper Tobi-Kadachi✨  |           |       |
-| Nightshade Paolumu✨  |           |       |
+| Nightshade Paolumu✨  |           | X     |
 | Coral Pukei-Pukei    | X         |       |
 | Barioth              |           |       |
 | Nargacuga            |           | X     |
