@@ -38,7 +38,7 @@
 | Banbaro              | X         | X     |
 | Viper Tobi-Kadachi✨  |           |       |
 | Nightshade Paolumu✨  |           |       |
-| Coral Pukei-Pukei    | Xww       |       |
+| Coral Pukei-Pukei    | X         |       |
 | Barioth              |           |       |
 | Nargacuga            |           | X     |
 | Glavenus             | X         |       |
