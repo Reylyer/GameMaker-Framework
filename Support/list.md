@@ -17,7 +17,7 @@
 | Odogaron             | X         | X     |
 | Rathalos             | X         | X     |
 | Diablos              | X         |       |
-| Kirin                |           | X     |
+| Kirin                | X         | X     |
 | Dodogama             | X         | X     |
 | Pink Rathian         | X         | X     |
 | Bazelgeuse           |           | X     |
