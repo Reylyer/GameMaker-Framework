@@ -53,7 +53,7 @@
 | Blackveil Vaal Hazak |           |       |
 | Namielle             |           |       |
 | Savage Deviljho      | X         |       |
-| Ruiner Nergigante    |           |       |
+| Ruiner Nergigante    | X         |       |
 | Zinogre✨             | X         | X     |
 | Yian Garuga✨         | X         | X     |
 | Scarred Yian Garuga  |           |       |
