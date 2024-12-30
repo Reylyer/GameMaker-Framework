@@ -7,13 +7,13 @@
 | Barroth              | X         | X     |
 | Jyuratodus           | X         | X     |
 | Tobi-Kadachi         | X         | X     |
-| Anjanath             |           | X     |
+| Anjanath             | X         | X     |
 | Rathian              | X         | X     |
 | Tzitzi-Ya-Ku         | X         | X     |
 | Paolumu              | X         | X     |
 | Great Girros         | X         | X     |
 | Radobaan             | X         | X     |
-| Legiana              | X         |       |
+| Legiana              | X         | X     |
 | Odogaron             | X         | X     |
 | Rathalos             | X         | X     |
 | Diablos              | X         |       |
@@ -38,7 +38,7 @@
 | Banbaro              | X         | X     |
 | Viper Tobi-Kadachi✨  |           |       |
 | Nightshade Paolumu✨  |           |       |
-| Coral Pukei-Pukei    |           |       |
+| Coral Pukei-Pukei    | Xww       |       |
 | Barioth              |           |       |
 | Nargacuga            |           | X     |
 | Glavenus             | X         |       |
