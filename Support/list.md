@@ -48,7 +48,7 @@
 | Fulgur Anjanath      | X         | X     |
 | Acidic Glavenus      |           |       |
 | Ebony Odogaron       | X         |       |
-| Velkhana             |           |       |
+| Velkhana             | X         |       |
 | Seething Bazelgeuse  |           |       |
 | Blackveil Vaal Hazak |           |       |
 | Namielle             |           |       |
